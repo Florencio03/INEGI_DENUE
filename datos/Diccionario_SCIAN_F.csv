@@ -1,0 +1,2107 @@
+﻿Codigo,Titulo
+11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y cazaT"
+111,AgriculturaT
+1111,"Cultivo de semillas oleaginosas, leguminosas y cerealesT"
+11111,Cultivo de soyaT
+111110,Cultivo de soya
+11112,"Cultivo de semillas oleaginosas, excepto soyaT"
+111121,Cultivo de cártamo
+111122,Cultivo de girasol
+111129,Cultivo anual de otras semillas oleaginosas
+11113,Cultivo de leguminosasT
+111131,Cultivo de frijol grano
+111132,Cultivo de garbanzo grano
+111139,Cultivo de otras leguminosas
+11114,Cultivo de trigoT
+111140,Cultivo de trigo
+11115,Cultivo de maízT
+111151,Cultivo de maíz grano
+11119,Cultivo de otros cerealesT
+111191,Cultivo de sorgo grano
+111195,Cultivo de avena forrajera
+111199,Cultivo de otros cereales
+1112,Cultivo de hortalizasT
+11121,Cultivo de hortalizasT
+111211,Cultivo de jitomate o tomate rojo
+111212,Cultivo de chile
+111213,Cultivo de cebolla
+111214,Cultivo de melón
+111215,Cultivo de tomate verde
+111216,Cultivo de papa
+111217,Cultivo de calabaza
+111218,Cultivo de sandía
+111219,Cultivo de otras hortalizas
+11132,Cultivo de otros cítricosT
+111321,Cultivo de limón
+111329,Cultivo de otros cítricos
+11133,Cultivo de frutales no cítricos y de nuecesT
+111331,Cultivo de café
+111332,Cultivo de plátano
+111333,Cultivo de mango
+111334,Cultivo de aguacate
+111335,Cultivo de uva
+111336,Cultivo de manzana
+111337,Cultivo de cacao
+111338,Cultivo de coco
+111339,Cultivo de otros frutales no cítricos y de nueces
+1114,"Cultivo en invernaderos y otras estructuras agrícolas protegidas, y floriculturaT"
+11141,Cultivo de productos alimenticios en invernaderos y otras estructuras agrícolas protegidasT
+111411,Cultivo de jitomate en invernaderos y otras estructuras agrícolas protegidas
+111412,Cultivo de fresa en invernaderos y otras estructuras agrícolas protegidas
+111413,"Cultivo de bayas (berries) en invernaderos y otras estructuras agrícolas protegidas, excepto fresas"
+111414,Cultivo de chile en invernaderos y otras estructuras agrícolas protegidas
+111415,Cultivo de manzana en invernaderos y otras estructuras agrícolas protegidas
+111416,Cultivo de pepino en invernaderos y otras estructuras agrícolas protegidas
+111419,Cultivo de otros productos alimenticios en invernaderos y otras estructuras agrícolas protegidas
+11142,"Floricultura, y otros cultivos de productos no alimenticios en invernaderos y otras estructuras agrícolas protegidasT"
+111421,Floricultura a cielo abierto
+111422,Floricultura en invernaderos y otras estructuras agrícolas protegidas
+111423,Cultivo de árboles de ciclo productivo de 10 años o menos
+111429,Otros cultivos no alimenticios en invernaderos y otras estructuras agrícolas protegidas
+1119,Otros cultivosT
+11191,Cultivo de tabacoT
+111910,Cultivo de tabaco
+11192,Cultivo de algodónT
+111920,Cultivo de algodón
+11193,Cultivo de caña de azúcarT
+111930,Cultivo de caña de azúcar
+11194,Cultivo de alfalfa y pastosT
+111941,Cultivo de alfalfa
+111942,Cultivo de pastos
+11199,Otros cultivosT
+111991,Cultivo de agaves alcoholeros
+111992,Cultivo de cacahuate
+111993,Actividades agrícolas combinadas con explotación de animales
+111994,Actividades agrícolas combinadas con aprovechamiento forestal
+111995,Actividades agrícolas combinadas con explotación de animales y aprovechamiento forestal
+111999,Otros cultivos
+112,Cría y explotación de animalesT
+1121,Explotación de bovinosT
+11211,Explotación de bovinos para la producción de carneT
+112110,Explotación de bovinos para la producción de carne
+11212,Explotación de bovinos para la producción de lecheT
+112120,Explotación de bovinos para la producción de leche
+11213,Explotación de bovinos sin especialización y para otros propósitosT
+112131,Explotación de bovinos para la producción conjunta de leche y carne
+112139,Explotación de bovinos para otros propósitos
+1122,Explotación de porcinosT
+11221,Explotación de porcinosT
+112211,Explotación de porcinos en granja
+112212,Explotación de porcinos en traspatio
+1123,Explotación avícolaT
+11231,Explotación de gallinas para la producción de huevoT
+112311,Explotación de gallinas para la producción de huevo fértil
+112312,Explotación de gallinas para la producción de huevo para plato
+11232,Explotación de pollos para la producción de carneT
+112320,Explotación de pollos para la producción de carne
+11233,Explotación de guajolotes o pavosT
+112330,Explotación de guajolotes o pavos
+11234,Producción de aves en incubadoraT
+112340,Producción de aves en incubadora
+11239,Explotación de otras aves para producción de carne y huevoT
+112390,Explotación de otras aves para producción de carne y huevo
+1124,Explotación de ovinos y caprinosT
+11241,Explotación de ovinosT
+112410,Explotación de ovinos
+11242,Explotación de caprinosT
+112420,Explotación de caprinos
+1125,AcuiculturaT
+11251,AcuiculturaT
+112513,Camaronicultura y acuicultura de otros crustáceos en agua salada
+112514,Camaronicultura y acuicultura de otros crustáceos en agua dulce
+112515,Piscicultura en agua dulce
+112516,Piscicultura en agua salada
+112519,Otra acuicultura
+1129,Explotación de otros animalesT
+11291,ApiculturaT
+112910,Apicultura
+11292,Explotación de équidosT
+112920,Explotación de équidos
+11293,Cunicultura y explotación de animales con pelaje finoT
+112930,Cunicultura y explotación de animales con pelaje fino
+11299,Explotación de otros animalesT
+112991,Explotación de animales combinada con aprovechamiento forestal
+112999,Explotación de otros animales
+113,Aprovechamiento forestalT
+1131,SilviculturaT
+11311,SilviculturaT
+113110,Silvicultura 
+1132,Viveros forestales y recolección de productos forestalesT
+11321,Viveros forestales y recolección de productos forestalesT
+113211,Viveros forestales 
+113212,Recolección de productos forestales 
+1133,Aprovechamiento de árbolesT
+11331,Aprovechamiento de árbolesT
+113310,Aprovechamiento de árboles
+114,"Pesca, caza y capturaT"
+1141,PescaT
+11411,PescaT
+114111,Pesca de camarón
+114112,Pesca de túnidos
+114113,Pesca de sardina y anchoveta
+114119,"Pesca y captura de otros peces, crustáceos, moluscos y otras especies"
+1142,Caza y capturaT
+11421,Caza y capturaT
+114210,Caza y captura
+115,Servicios relacionados con las actividades agropecuarias y forestalesT
+1151,Servicios relacionados con la agriculturaT
+11511,Servicios relacionados con la agriculturaT
+115111,Servicios de fumigación agrícola
+115112,Despepite de algodón
+115113,Beneficio de productos agrícolas
+115119,Otros servicios relacionados con la agricultura
+1152,Servicios relacionados con la cría y explotación de animalesT
+11521,Servicios relacionados con la cría y explotación de animalesT
+115210,Servicios relacionados con la cría y explotación de animales
+1153,Servicios relacionados con el aprovechamiento forestalT
+11531,Servicios relacionados con el aprovechamiento forestalT
+115310,Servicios relacionados con el aprovechamiento forestal 
+21,MineríaT
+211,Extracción de petróleo y gasT
+2111,Extracción de petróleo y gasT
+21111,Extracción de petróleo y gas
+211111,Extracción de petróleo y gas natural asociado
+211112,Extracción de gas natural no asociado
+212,"Minería de minerales metálicos y no metálicos, excepto petróleo y gasT"
+2121,Minería de carbón mineralT
+21211,Minería de carbón mineralT
+212110,Minería de carbón mineral
+2122,Minería de minerales metálicosT
+21221,Minería de hierroT
+212210,Minería de hierro
+21222,Minería de oro y plataT
+212221,Minería de oro
+212222,Minería de plata
+21223,"Minería de cobre, plomo y zincT"
+212231,Minería de cobre
+212232,Minería de plomo y zinc
+21229,Minería de otros minerales metálicosT
+212291,Minería de manganeso
+212292,Minería de mercurio y antimonio
+212293,Minería de uranio y minerales radiactivos
+212299,Minería de otros minerales metálicos
+2123,Minería de minerales no metálicosT
+21231,"Minería de piedra caliza, mármol y otras piedras dimensionadasT"
+212311,Minería de piedra caliza
+212312,Minería de mármol
+212319,Minería de otras piedras dimensionadas
+21232,"Minería de arena, grava, tezontle, tepetate, arcillas y de otros minerales refractariosT"
+212321,Minería de arena y grava para la construcción
+212322,Minería de tezontle y tepetate
+212323,Minería de feldespato
+212324,Minería de sílice
+212325,Minería de caolín
+212329,Minería de otras arcillas y de otros minerales refractarios
+21239,Minería de otros minerales no metálicosT
+212391,Minería de sal
+212392,Minería de piedra de yeso
+212393,Minería de barita
+212394,Minería de roca fosfórica
+212395,Minería de fluorita
+212396,Minería de grafito
+212397,Minería de azufre
+212398,Minería de minerales no metálicos para productos químicos
+212399,Minería de otros minerales no metálicos
+213,Servicios relacionados con la mineríaT
+2131,Servicios relacionados con la mineríaT
+21311,Servicios relacionados con la mineríaT
+213111,Perforación de pozos petroleros y de gas
+213119,Otros servicios relacionados con la minería
+22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor finalT"
+221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor finalT"
+2211,"Generación, transmisión, distribución y comercialización de energía eléctricaT"
+22111,Generación de energía eléctricaT
+221111,Generación de electricidad a partir de combustibles fósiles
+221112,Generación de electricidad a partir de energía hidráulica
+221113,Generación de electricidad a partir de energía solar
+221114,Generación de electricidad a partir de energía eólica
+221119,Generación de electricidad a partir de otro tipo de energía
+22112,"Transmisión, distribución y comercialización de energía eléctricaT"
+221121,Transmisión de energía eléctrica
+221122,Distribución de energía eléctrica
+221123,Comercialización de energía eléctrica
+2212,Suministro de gas natural por ductos al consumidor finalT
+22121,Suministro de gas natural por ductos al consumidor finalT
+221210,Suministro de gas natural por ductos al consumidor final
+2213,"Captación, tratamiento y suministro de aguaT"
+22131,"Captación, tratamiento y suministro de agua"
+221311,"Captación, tratamiento y suministro de agua realizados por el sector privado"
+221312,"Captación, tratamiento y suministro de agua realizados por el sector público"
+23,ConstrucciónT
+236,EdificaciónT
+2361,Edificación residencialT
+23611,Edificación residencialT
+236111,Edificación de vivienda unifamiliar
+236112,Edificación de vivienda multifamiliar
+236113,Supervisión de edificación residencial
+2362,Edificación no residencialT
+23621,Edificación de naves y plantas industrialesT
+236211,"Edificación de naves y plantas industriales, excepto la supervisión"
+236212,Supervisión de edificación de naves y plantas industriales
+23622,"Edificación de inmuebles comerciales y de servicios, y otras edificaciones no residencialesT"
+236221,"Edificación de inmuebles comerciales y de servicios, y otras edificaciones no residenciales, excepto la supervisión"
+236222,"Supervisión de edificación de inmuebles comerciales y de servicios, y otras edificaciones no residenciales"
+237,Construcción de obras de ingeniería civilT
+2371,"Construcción de obras para el suministro de agua, petróleo, gas, energía eléctrica y telecomunicacionesT"
+23711,"Construcción de obras para el tratamiento, distribución y suministro de agua, drenaje y riegoT"
+237111,"Construcción de obras para el tratamiento, distribución y suministro de agua y drenaje"
+237112,Construcción de sistemas de riego agrícola
+237113,"Supervisión de construcción de obras para el tratamiento, distribución y suministro de agua, drenaje y riego"
+23712,Construcción de obras para petróleo y gasT
+237121,Construcción de sistemas de distribución de petróleo y gas
+237122,Construcción de plantas de refinería y petroquímica
+237123,Supervisión de construcción de obras para petróleo y gas
+23713,Construcción de obras de generación y conducción de energía eléctrica y de obras para telecomunicacionesT
+237131,Construcción de obras de generación y conducción de energía eléctrica
+237132,Construcción de obras para telecomunicaciones
+237133,Supervisión de construcción de obras de generación y conducción de energía eléctrica y de obras para telecomunicaciones
+2372,División de terrenos y construcción de obras de urbanizaciónT
+23721,División de terrenos y construcción de obras de urbanizaciónT
+237211,División de terrenos
+237212,Construcción de obras de urbanización
+237213,Supervisión de división de terrenos y de construcción de obras de urbanización
+2373,Construcción de vías de comunicaciónT
+23731,Construcción de vías de comunicaciónT
+237311,Instalación de señalamientos y protecciones en obras viales
+237312,"Construcción de carreteras, puentes y similares"
+237313,Supervisión de construcción de vías de comunicación
+2379,Otras construcciones de ingeniería civilT
+23799,Otras construcciones de ingeniería civilT
+237991,Construcción de presas y represas
+237992,"Construcción de obras marítimas, fluviales y subacuáticas"
+237993,Construcción de obras para transporte eléctrico y ferroviario
+237994,Supervisión de construcción de otras obras de ingeniería civil 
+237999,Otras construcciones de ingeniería civil
+238,Trabajos especializados para la construcciónT
+2381,"Cimentaciones, montaje de estructuras prefabricadas y trabajos en exterioresT"
+23811,Trabajos de cimentaciones
+238110,Trabajos de cimentaciones
+23812,Montaje de estructuras prefabricadas
+238121,Montaje de estructuras de concreto prefabricadas
+238122,Montaje de estructuras de acero prefabricadas
+23813,Trabajos de albañilería
+238130,Trabajos de albañilería
+23819,Otros trabajos en exteriores
+238190,Otros trabajos en exteriores
+2382,Instalaciones y equipamiento en construccionesT
+23821,Instalaciones eléctricas en construccionesT
+238210,Instalaciones eléctricas en construcciones
+23822,"Instalaciones hidrosanitarias, de gas, sistemas centrales de aire acondicionado y calefacciónT"
+238221,Instalaciones hidrosanitarias y de gas
+238222,Instalaciones de sistemas centrales de aire acondicionado y calefacción
+23829,Otras instalaciones y equipamiento en construccionesT
+238290,Otras instalaciones y equipamiento en construcciones
+2383,Trabajos de acabados en edificacionesT
+23831,"Colocación de muros falsos, aislamiento y enyesadoT"
+238311,Colocación de muros falsos y aislamiento
+238312,"Trabajos de enyesado, empastado y tiroleado"
+23832,Trabajos de pintura y otros cubrimientos de paredesT
+238320,Trabajos de pintura y otros cubrimientos de paredes
+23833,Colocación de pisos flexibles y de maderaT
+238330,Colocación de pisos flexibles y de madera
+23834,Colocación de pisos cerámicos y azulejosT
+238340,Colocación de pisos cerámicos y azulejos
+23835,Realización de trabajos de carpintería en el lugar de la construcciónT
+238350,Realización de trabajos de carpintería en el lugar de la construcción
+23839,Otros trabajos de acabados en edificacionesT
+238390,Otros trabajos de acabados en edificaciones
+2389,Otros trabajos especializados para la construcciónT
+23891,Preparación de terrenos para la construcciónT
+238910,Preparación de terrenos para la construcción
+23899,Otros trabajos especializados para la construcciónT
+238990,Otros trabajos especializados para la construcción
+31-33,Industrias manufacturerasT
+311,Industria alimentariaT
+3111,Elaboración de alimentos balanceados para animalesT
+31111,Elaboración de alimentos balanceados para animalesT
+311110,Elaboración de alimentos balanceados para animales
+3112,Molienda de granos y de semillas y obtención de aceites y grasasT
+31121,"Beneficio del arroz, elaboración de productos de molinería, y de maltaT"
+311211,Beneficio del arroz
+311212,Elaboración de harina de trigo
+311213,Elaboración de harina de maíz
+311214,Elaboración de harina de otros productos agrícolas
+311215,Elaboración de malta
+31122,"Elaboración de almidones, aceites y grasas vegetales comestiblesT"
+311221,Elaboración de féculas y otros almidones y sus derivados
+311222,Elaboración de aceites y grasas vegetales comestibles
+31123,Elaboración de cereales para el desayunoT
+311230,Elaboración de cereales para el desayuno
+3113,"Elaboración de azúcares, chocolates, dulces y similaresT"
+31131,Elaboración de azúcaresT
+311311,Elaboración de azúcar de caña
+311319,Elaboración de otros azúcares
+31134,"Elaboración de dulces, chicles y productos de confitería que no sean de chocolateT"
+311340,"Elaboración de dulces, chicles y productos de confitería que no sean de chocolate"
+31135,Elaboración de chocolate y productos de chocolateT
+311350,Elaboración de chocolate y productos de chocolate
+3114,"Conservación de frutas, verduras, guisos y otros alimentos preparadosT"
+31141,"Congelación de frutas, verduras, guisos y otros alimentos preparadosT"
+311411,Congelación de frutas y verduras
+311412,Congelación de guisos y otros alimentos preparados
+31142,"Conservación de frutas, verduras, guisos y otros alimentos preparados por procesos distintos a la congelaciónT"
+311421,Deshidratación de frutas y verduras
+311422,Conservación de frutas y verduras por procesos distintos a la congelación y la deshidratación
+311423,Conservación de guisos y otros alimentos preparados por procesos distintos a la congelación
+3115,Elaboración de productos lácteosT
+31151,Elaboración de leche y derivados lácteosT
+311511,Elaboración de leche líquida
+311512,"Elaboración de leche en polvo, condensada y evaporada"
+311513,Elaboración de derivados y fermentos lácteos
+31152,Elaboración de helados y paletasT
+311520,Elaboración de helados y paletas
+3116,"Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestiblesT"
+31161,"Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestiblesT"
+311611,"Matanza de ganado, aves y otros animales comestibles"
+311612,"Corte y empacado de carne de ganado, aves y otros animales comestibles"
+311613,"Elaboración de embutidos y otras conservas de carne de ganado, aves y otros animales comestibles"
+311614,Elaboración de manteca y otras grasas animales comestibles
+3117,Preparación y envasado de pescados y mariscosT
+31171,Preparación y envasado de pescados y mariscosT
+311710,Preparación y envasado de pescados y mariscos
+3118,Elaboración de productos de panadería y tortillasT
+31181,Elaboración de pan y otros productos de panaderíaT
+311811,Panificación industrial
+311812,Panificación tradicional
+311813,Elaboración de tortillas de harina de trigo de forma tradicional
+31182,Elaboración de galletas y pastas para sopaT
+311820,Elaboración de galletas y pastas para sopa
+31183,Elaboración de tortillas de maíz y molienda de nixtamalT
+311830,Elaboración de tortillas de maíz y molienda de nixtamal
+3119,Otras industrias alimentariasT
+31191,Elaboración de botanasT
+311910,Elaboración de botanas
+31192,Industrias del café y del téT
+311921,Beneficio del café
+311922,Elaboración de café tostado y molido destinado a unidades que lo comercializan
+311923,Elaboración de café instantáneo
+311924,Preparación y envasado de té
+31193,"Elaboración de concentrados, polvos, jarabes y esencias de sabor para bebidasT"
+311930,"Elaboración de concentrados, polvos, jarabes y esencias de sabor para bebidas"
+31194,Elaboración de condimentos y aderezosT
+311940,Elaboración de condimentos y aderezos
+31199,Elaboración de otros alimentosT
+311991,Elaboración de gelatinas y otros postres en polvo
+311992,Elaboración de levadura
+311993,Elaboración de alimentos frescos para consumo inmediato
+311999,Elaboración de otros alimentos procesados y envasados
+312,Industria de las bebidas y del tabacoT
+3121,Industria de las bebidasT
+31211,"Elaboración de refrescos, hielo y otras bebidas no alcohólicas, y purificación y embotellado de aguaT"
+312111,Elaboración de refrescos y otras bebidas no alcohólicas
+312112,Purificación y embotellado de agua
+312113,Elaboración de hielo
+31212,Elaboración de cervezaT
+312120,Elaboración de cerveza
+31213,"Elaboración de bebidas alcohólicas a base de uva y bebidas fermentadas, excepto cervezaT"
+312131,Elaboración de bebidas alcohólicas a base de uva
+312132,Elaboración de pulque
+312139,Elaboración de sidra y otras bebidas fermentadas
+31214,"Elaboración de bebidas destiladas, excepto de uvaT"
+312141,Elaboración de ron y otras bebidas destiladas de caña
+312143,Obtención de alcohol etílico potable
+312144,Elaboración de tequila
+312145,Elaboración de mezcal
+312149,Elaboración de otras bebidas destiladas
+3122,Industria del tabacoT
+31221,Beneficio del tabaco
+312210,Beneficio del tabaco
+31222,Elaboración de productos de tabaco
+312221,Elaboración de cigarros
+312222,Elaboración de puros y otros productos de tabaco
+313,Fabricación de insumos textiles y acabado de textilesT
+3131,"Preparación e hilado de fibras textiles, y fabricación de hilosT"
+31311,"Preparación e hilado de fibras textiles, y fabricación de hilosT"
+313111,Preparación e hilado de fibras duras naturales
+313112,Preparación e hilado de fibras blandas naturales
+313113,Fabricación de hilos para coser y bordar
+3132,Fabricación de telasT
+31321,Fabricación de telas anchas de tejido de tramaT
+313210,Fabricación de telas anchas de tejido de trama
+31322,Fabricación de telas angostas de tejido de trama y pasamaneríaT
+313220,Fabricación de telas angostas de tejido de trama y pasamanería
+31323,Fabricación de telas no tejidas (comprimidas)T
+313230,Fabricación de telas no tejidas (comprimidas)
+31324,Fabricación de telas de tejido de puntoT
+313240,Fabricación de telas de tejido de punto
+3133,Acabado de productos textiles y fabricación de telas recubiertasT
+31331,Acabado de productos textilesT
+313310,Acabado de productos textiles
+31332,Fabricación de telas recubiertasT
+313320,Fabricación de telas recubiertas
+314,"Fabricación de productos textiles, excepto prendas de vestirT"
+3141,"Confección de alfombras, blancos y similaresT"
+31411,Fabricación de alfombras y tapetesT
+314110,Fabricación de alfombras y tapetes
+31412,"Confección de cortinas, blancos y similaresT"
+314120,"Confección de cortinas, blancos y similares"
+3149,"Fabricación de otros productos textiles, excepto prendas de vestirT"
+31491,Confección de costales y productos de textiles recubiertos y de materiales sucedáneosT
+314911,Confección de costales
+314912,Confección de productos de textiles recubiertos y de materiales sucedáneos
+31499,Fabricación de otros productos textiles no clasificados en otra parteT
+314991,"Confección, bordado y deshilado de productos textiles"
+314992,Fabricación de redes y otros productos de cordelería
+314993,Fabricación de borras y estopas
+314999,Fabricación de banderas y otros productos textiles no clasificados en otra parte
+315,Fabricación de prendas de vestirT
+3151,Fabricación de prendas de vestir de tejido de puntoT
+31512,Fabricación de prendas de vestir de tejido de puntoT
+315121,Fabricación de calcetines y medias de tejido de punto
+315122,Fabricación de ropa interior de tejido de punto
+315123,Fabricación de ropa exterior de tejido de punto
+3152,Confección de prendas de vestirT
+31521,"Confección de prendas de vestir de cuero, piel y materiales sucedáneos"
+315210,"Confección de prendas de vestir de cuero, piel y materiales sucedáneos"
+31522,Confección de prendas de vestir de materiales textiles 
+315221,Confección en serie de ropa interior y de dormir
+315222,Confección en serie de camisas
+315223,Confección en serie de uniformes
+315224,Confección en serie de disfraces y trajes típicos
+315225,Confección de prendas de vestir sobre medida
+315229,Confección en serie de otra ropa exterior de materiales textiles
+3159,Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parteT
+31599,Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parteT
+315991,Confección de sombreros y gorras
+315999,Confección de otros accesorios y prendas de vestir no clasificados en otra parte
+316,"Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneosT"
+3161,Curtido y acabado de cuero y pielT
+31611,Curtido y acabado de cuero y pielT
+316110,Curtido y acabado de cuero y piel
+3162,Fabricación de calzadoT
+31621,Fabricación de calzadoT
+316211,Fabricación de calzado con corte de piel y cuero
+316212,Fabricación de calzado con corte de tela
+316213,Fabricación de calzado de plástico
+316214,Fabricación de calzado de hule
+316219,Fabricación de huaraches y calzado de otro tipo de materiales
+3169,"Fabricación de otros productos de cuero, piel y materiales sucedáneosT"
+31699,"Fabricación de otros productos de cuero, piel y materiales sucedáneosT"
+316991,"Fabricación de bolsos de mano, maletas y similares"
+316999,"Fabricación de otros productos de cuero, piel y materiales sucedáneos"
+321,Industria de la maderaT
+3211,Aserrado y conservación de la maderaT
+32111,Aserrado y conservación de la maderaT
+321111,Aserraderos integrados
+321112,Aserrado de tablas y tablones
+321113,Tratamiento de la madera y fabricación de postes y durmientes
+3212,Fabricación de laminados y aglutinados de maderaT
+32121,Fabricación de laminados y aglutinados de maderaT
+321210,Fabricación de laminados y aglutinados de madera
+3219,Fabricación de otros productos de maderaT
+32191,Fabricación de productos de madera para la construcciónT
+321910,Fabricación de productos de madera para la construcción
+32192,Fabricación de productos para embalaje y envases de maderaT
+321920,Fabricación de productos para embalaje y envases de madera
+32199,"Fabricación de otros productos de madera y de materiales trenzables, excepto palmaT"
+321991,"Fabricación de productos de materiales trenzables, excepto palma"
+321992,Fabricación de artículos y utensilios de madera para el hogar
+321993,Fabricación de productos de madera de uso industrial
+321999,Fabricación de otros productos de madera
+322,Industria del papelT
+3221,"Fabricación de pulpa, papel y cartónT"
+32211,Fabricación de pulpaT
+322110,Fabricación de pulpa
+32212,Fabricación de papelT
+322121,Fabricación de papel en plantas integradas
+322122,Fabricación de papel a partir de pulpa
+32213,Fabricación de cartónT
+322131,Fabricación de cartón en plantas integradas
+322132,Fabricación de cartón y cartoncillo a partir de pulpa
+3222,Fabricación de productos de cartón y papelT
+32221,Fabricación de envases de cartónT
+322210,Fabricación de envases de cartón
+32222,Fabricación de bolsas de papel y productos celulósicos recubiertos y tratadosT
+322220,Fabricación de bolsas de papel y productos celulósicos recubiertos y tratados
+32223,Fabricación de productos de papeleríaT
+322230,Fabricación de productos de papelería
+32229,Fabricación de otros productos de cartón y papelT
+322291,Fabricación de pañales desechables y productos sanitarios
+322299,Fabricación de otros productos de cartón y papel
+323,Impresión e industrias conexasT
+3231,Impresión e industrias conexasT
+32311,ImpresiónT
+323111,"Impresión de libros, periódicos y revistas"
+323119,Impresión de formas continuas y otros impresos
+32312,Industrias conexas a la impresiónT
+323120,Industrias conexas a la impresión
+324,Fabricación de productos derivados del petróleo y del carbónT
+3241,Fabricación de productos derivados del petróleo y del carbónT
+32411,Refinación de petróleoT
+324110,Refinación de petróleo
+32412,Fabricación de productos de asfaltoT
+324120,Fabricación de productos de asfalto
+32419,Fabricación de otros productos derivados del petróleo refinado y del carbón mineralT
+324191,Fabricación de aceites y grasas lubricantes
+324199,Fabricación de coque y otros productos derivados del petróleo refinado y del carbón mineral
+325,Industria químicaT
+3251,Fabricación de productos químicos básicosT
+32511,Fabricación de petroquímicos básicos del gas natural y del petróleo refinadoT
+325110,Fabricación de petroquímicos básicos del gas natural y del petróleo refinado
+32512,Fabricación de gases industrialesT
+325120,Fabricación de gases industriales
+32513,Fabricación de pigmentos y colorantes sintéticosT
+325130,Fabricación de pigmentos y colorantes sintéticos
+32518,Fabricación de otros productos químicos básicos inorgánicosT
+325180,Fabricación de otros productos químicos básicos inorgánicos
+32519,Fabricación de otros productos químicos básicos orgánicosT
+325190,Fabricación de otros productos químicos básicos orgánicos
+3252,"Fabricación de resinas y hules sintéticos, y fibras químicasT"
+32521,Fabricación de resinas y hules sintéticosT
+325211,Fabricación de resinas sintéticas
+325212,Fabricación de hules sintéticos
+32522,Fabricación de fibras químicasT
+325220,Fabricación de fibras químicas
+3253,"Fabricación de fertilizantes, plaguicidas y otros agroquímicosT"
+32531,Fabricación de fertilizantes y compostaT
+325310,Fabricación de fertilizantes y composta
+32532,"Fabricación de plaguicidas y otros agroquímicos, excepto fertilizantes y compostaT"
+325320,"Fabricación de plaguicidas y otros agroquímicos, excepto fertilizantes y composta"
+3254,Fabricación de productos farmacéuticosT
+32541,Fabricación de productos farmacéuticosT
+325411,Fabricación de materias primas para la industria farmacéutica
+325412,Fabricación de preparaciones farmacéuticas
+3255,"Fabricación de pinturas, recubrimientos y adhesivosT"
+32551,Fabricación de pinturas y recubrimientosT
+325510,Fabricación de pinturas y recubrimientos
+32552,Fabricación de adhesivosT
+325520,Fabricación de adhesivos
+3256,"Fabricación de jabones, limpiadores y preparaciones de tocadorT"
+32561,"Fabricación de jabones, limpiadores y dentífricosT"
+325610,"Fabricación de jabones, limpiadores y dentífricos"
+32562,"Fabricación de cosméticos, perfumes y otras preparaciones de tocadorT"
+325620,"Fabricación de cosméticos, perfumes y otras preparaciones de tocador"
+3259,Fabricación de otros productos químicosT
+32591,Fabricación de tintas para impresiónT
+325910,Fabricación de tintas para impresión
+32592,Fabricación de explosivosT
+325920,Fabricación de explosivos
+32599,Fabricación de otros productos químicosT
+325991,Fabricación de cerillos
+325992,"Fabricación de películas, placas y papel fotosensible para fotografía"
+325993,Fabricación de resinas de plásticos reciclados
+325999,Fabricación de otros productos químicos
+326,Industria del plástico y del huleT
+3261,Fabricación de productos de plásticoT
+32611,Fabricación de bolsas y películas de plásticoT
+326110,Fabricación de bolsas y películas de plástico
+32612,"Fabricación de tubería y conexiones, y tubos para embalajeT"
+326120,"Fabricación de tubería y conexiones, y tubos para embalaje"
+32613,Fabricación de laminados de plásticoT
+326130,Fabricación de laminados de plástico
+32614,Fabricación de espumas y productos de poliestirenoT
+326140,Fabricación de espumas y productos de poliestireno
+32615,Fabricación de espumas y productos de uretanoT
+326150,Fabricación de espumas y productos de uretano
+32616,Fabricación de botellas de plásticoT
+326160,Fabricación de botellas de plástico
+32619,Fabricación de otros productos de plásticoT
+326191,Fabricación de productos de plástico para el hogar con y sin reforzamiento
+326192,Fabricación de autopartes de plástico con y sin reforzamiento
+326193,Fabricación de envases y contenedores de plástico para embalaje con y sin reforzamiento
+326194,Fabricación de otros productos de plástico de uso industrial sin reforzamiento
+326198,Fabricación de otros productos de plástico con reforzamiento
+326199,Fabricación de otros productos de plástico sin reforzamiento
+3262,Fabricación de productos de huleT
+32621,Fabricación y revitalización de llantasT
+326211,Fabricación de llantas y cámaras
+326212,Revitalización de llantas
+32622,Fabricación de bandas y mangueras de hule y de plásticoT
+326220,Fabricación de bandas y mangueras de hule y de plástico
+32629,Fabricación de otros productos de huleT
+326290,Fabricación de otros productos de hule
+327,Fabricación de productos a base de minerales no metálicosT
+3271,Fabricación de productos a base de arcillas y minerales refractariosT
+32711,"Fabricación de artículos de alfarería, porcelana, loza y muebles de bañoT"
+327111,"Fabricación de artículos de alfarería, porcelana y loza"
+327112,Fabricación de muebles de baño
+32712,Fabricación de productos a base de arcilla para la construcciónT
+327121,Fabricación de ladrillos no refractarios
+327122,Fabricación de azulejos y losetas no refractarias
+327123,Fabricación de productos refractarios
+3272,Fabricación de vidrio y productos de vidrioT
+32721,Fabricación de vidrio y productos de vidrioT
+327211,Fabricación de vidrio
+327212,Fabricación de espejos
+327213,Fabricación de envases y ampolletas de vidrio
+327214,Fabricación de fibra de vidrio
+327215,Fabricación de artículos de vidrio de uso doméstico 
+327216,Fabricación de artículos de vidrio de uso industrial y comercial 
+327219,Fabricación de otros productos de vidrio
+3273,"Fabricación de cemento, concreto y sus productosT"
+32731,Fabricación de cemento y productos a base de cemento en plantas integradasT
+327310,Fabricación de cemento y productos a base de cemento en plantas integradas
+32732,Fabricación de concretoT
+327320,Fabricación de concreto
+32733,Fabricación de tubos y bloques de cemento y concretoT
+327330,Fabricación de tubos y bloques de cemento y concreto 
+32739,Fabricación de otros productos de cemento y concretoT
+327391,Fabricación de productos preesforzados de concreto
+327399,Fabricación de otros productos de cemento y concreto 
+3274,"Fabricación de cal, yeso y productos de yesoT"
+32741,Fabricación de calT
+327410,Fabricación de cal
+32742,Fabricación de yeso y productos de yesoT
+327420,Fabricación de yeso y productos de yeso
+3279,Fabricación de otros productos a base de minerales no metálicosT
+32791,Fabricación de productos abrasivosT
+327910,Fabricación de productos abrasivos
+32799,Fabricación de otros productos a base de minerales no metálicosT
+327991,Fabricación de productos a base de piedras de cantera
+327999,Fabricación de otros productos a base de minerales no metálicos
+331,Industrias metálicas básicasT
+3311,Industria básica del hierro y del aceroT
+33111,Industria básica del hierro y del aceroT
+331111,Complejos siderúrgicos
+331112,Fabricación de desbastes primarios y ferroaleaciones
+3312,Fabricación de productos de hierro y aceroT
+33121,Fabricación de tubos y postes de hierro y aceroT
+331210,Fabricación de tubos y postes de hierro y acero
+33122,Fabricación de otros productos de hierro y aceroT
+331220,Fabricación de otros productos de hierro y acero
+3313,Industria básica del aluminioT
+33131,Industria básica del aluminioT
+331310,Industria básica del aluminio
+3314,"Industrias de metales no ferrosos, excepto aluminioT"
+33141,"Fundición y refinación de cobre, metales preciosos y de otros metales no ferrososT"
+331411,Fundición y refinación de cobre
+331412,Fundición y refinación de metales preciosos
+331419,Fundición y refinación de otros metales no ferrosos
+33142,Laminación secundaria de cobreT
+331420,Laminación secundaria de cobre
+33149,Laminación secundaria de otros metales no ferrososT
+331490,Laminación secundaria de otros metales no ferrosos
+3315,Moldeo por fundición de piezas metálicasT
+33151,Moldeo por fundición de piezas de hierro y aceroT
+331510,Moldeo por fundición de piezas de hierro y acero
+33152,Moldeo por fundición de piezas metálicas no ferrosasT
+331520,Moldeo por fundición de piezas metálicas no ferrosas
+332,Fabricación de productos metálicosT
+3321,Fabricación de productos metálicos forjados y troqueladosT
+33211,Fabricación de productos metálicos forjados y troqueladosT
+332110,Fabricación de productos metálicos forjados y troquelados
+3322,Fabricación de herramientas de mano sin motor y utensilios de cocina metálicosT
+33221,Fabricación de herramientas de mano sin motor y utensilios de cocina metálicosT
+332211,Fabricación de herramientas de mano metálicas sin motor
+332212,Fabricación de utensilios de cocina metálicos
+3323,Fabricación de estructuras metálicas y productos de herreríaT
+33231,Fabricación de estructuras metálicasT
+332310,Fabricación de estructuras metálicas
+33232,Fabricación de productos de herreríaT
+332320,Fabricación de productos de herrería
+3324,"Fabricación de calderas, tanques y envases metálicosT"
+33241,Fabricación de calderas industrialesT
+332410,Fabricación de calderas industriales
+33242,Fabricación de tanques metálicos de calibre gruesoT
+332420,Fabricación de tanques metálicos de calibre grueso
+33243,Fabricación de envases metálicos de calibre ligeroT
+332430,Fabricación de envases metálicos de calibre ligero
+3325,Fabricación de herrajes y cerradurasT
+33251,Fabricación de herrajes y cerradurasT
+332510,Fabricación de herrajes y cerraduras
+3326,"Fabricación de alambre, productos de alambre y resortesT"
+33261,"Fabricación de alambre, productos de alambre y resortesT"
+332610,"Fabricación de alambre, productos de alambre y resortes"
+3327,Maquinado de piezas y fabricación de tornillosT
+33271,Maquinado de piezas para maquinaria y equipo en generalT
+332710,Maquinado de piezas para maquinaria y equipo en general
+33272,"Fabricación de tornillos, tuercas, remaches y similaresT"
+332720,"Fabricación de tornillos, tuercas, remaches y similares"
+3328,Recubrimientos y terminados metálicosT
+33281,Recubrimientos y terminados metálicosT
+332810,Recubrimientos y terminados metálicos
+3329,Fabricación de otros productos metálicosT
+33291,Fabricación de válvulas metálicasT
+332910,Fabricación de válvulas metálicas
+33299,Fabricación de otros productos metálicosT
+332991,Fabricación de baleros o rodamientos
+332999,Fabricación de otros productos metálicos
+333,Fabricación de maquinaria y equipoT
+3331,"Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractivaT"
+33311,Fabricación de maquinaria y equipo agropecuarioT
+333111,Fabricación de maquinaria y equipo agrícola
+333112,Fabricación de maquinaria y equipo pecuario
+33312,Fabricación de maquinaria y equipo para la construcciónT
+333120,Fabricación de maquinaria y equipo para la construcción
+33313,Fabricación de maquinaria y equipo para la industria extractivaT
+333130,Fabricación de maquinaria y equipo para la industria extractiva
+3332,"Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánicaT"
+33324,"Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánicaT"
+333241,Fabricación de maquinaria y equipo para la industria de la madera
+333242,Fabricación de maquinaria y equipo para la industria del hule y del plástico
+333243,Fabricación de maquinaria y equipo para la industria alimentaria y de las bebidas
+333244,Fabricación de maquinaria y equipo para la industria textil
+333245,Fabricación de maquinaria y equipo para la industria de la impresión
+333246,Fabricación de maquinaria y equipo para la industria del vidrio y otros minerales no metálicos
+333249,Fabricación de maquinaria y equipo para otras industrias manufactureras
+3333,Fabricación de maquinaria y equipo para el comercio y los serviciosT
+33331,Fabricación de maquinaria y equipo para el comercio y los serviciosT
+333311,Fabricación de aparatos fotográficos
+333312,Fabricación de máquinas fotocopiadoras
+333319,Fabricación de otra maquinaria y equipo para el comercio y los servicios
+3334,"Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercialT"
+33341,"Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercialT"
+333411,Fabricación de equipo de aire acondicionado y calefacción
+333412,Fabricación de equipo de refrigeración industrial y comercial
+3335,Fabricación de maquinaria y equipo para la industria metalmecánicaT
+33351,Fabricación de maquinaria y equipo para la industria metalmecánicaT
+333510,Fabricación de maquinaria y equipo para la industria metalmecánica
+3336,"Fabricación de motores de combustión interna, turbinas y transmisionesT"
+33361,"Fabricación de motores de combustión interna, turbinas y transmisionesT"
+333610,"Fabricación de motores de combustión interna, turbinas y transmisiones"
+3339,Fabricación de otra maquinaria y equipo para la industria en generalT
+33391,Fabricación de bombas y sistemas de bombeoT
+333910,Fabricación de bombas y sistemas de bombeo
+33392,Fabricación de maquinaria y equipo para levantar y trasladarT
+333920,Fabricación de maquinaria y equipo para levantar y trasladar
+33399,Fabricación de otra maquinaria y equipo para la industria en generalT
+333991,Fabricación de equipo para soldar y soldaduras
+333992,Fabricación de maquinaria y equipo para envasar y empacar
+333993,Fabricación de aparatos e instrumentos para pesar
+333999,Fabricación de otra maquinaria y equipo para la industria en general
+334,"Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicosT"
+3341,Fabricación de computadoras y equipo periféricoT
+33411,Fabricación de computadoras y equipo periféricoT
+334110,Fabricación de computadoras y equipo periférico 
+3342,Fabricación de equipo de comunicaciónT
+33421,Fabricación de equipo telefónicoT
+334210,Fabricación de equipo telefónico
+33422,"Fabricación de equipo de transmisión y recepción de señales de radio y televisión, y equipo de comunicación inalámbricoT"
+334220,"Fabricación de equipo de transmisión y recepción de señales de radio y televisión, y equipo de comunicación inalámbrico"
+33429,Fabricación de otros equipos de comunicaciónT
+334290,Fabricación de otros equipos de comunicación
+3343,Fabricación de equipo de audio y de videoT
+33431,Fabricación de equipo de audio y de videoT
+334310,Fabricación de equipo de audio y de video
+3344,Fabricación de componentes electrónicosT
+33441,Fabricación de componentes electrónicosT
+334410,Fabricación de componentes electrónicos
+3345,"Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónicoT"
+33451,"Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónicoT"
+334511,Fabricación de relojes
+334519,"Fabricación de otros instrumentos de medición, control, navegación, y equipo médico electrónico"
+3346,Fabricación y reproducción de medios magnéticos y ópticosT
+33461,Fabricación y reproducción de medios magnéticos y ópticosT
+334610,Fabricación y reproducción de medios magnéticos y ópticos
+335,"Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctricaT"
+3351,Fabricación de accesorios de iluminaciónT
+33513,Fabricación de accesorios de iluminaciónT
+335131,Fabricación de focos
+335132,Fabricación de lámparas ornamentales
+3352,Fabricación de aparatos eléctricos de uso domésticoT
+33521,Fabricación de enseres electrodomésticos menoresT
+335210,Fabricación de enseres electrodomésticos menores
+33522,Fabricación de aparatos de línea blancaT
+335220,Fabricación de aparatos de línea blanca
+3353,Fabricación de equipo de generación y distribución de energía eléctricaT
+33531,Fabricación de equipo de generación y distribución de energía eléctricaT
+335311,Fabricación de motores y generadores eléctricos
+335312,Fabricación de equipo y aparatos de distribución de energía eléctrica
+3359,Fabricación de otros equipos y accesorios eléctricosT
+33591,Fabricación de acumuladores y pilasT
+335910,Fabricación de acumuladores y pilas
+33592,Fabricación de cables de conducción eléctricaT
+335920,Fabricación de cables de conducción eléctrica
+33593,"Fabricación de enchufes, contactos, fusibles y otros accesorios para instalaciones eléctricasT"
+335930,"Fabricación de enchufes, contactos, fusibles y otros accesorios para instalaciones eléctricas"
+33599,Fabricación de otros productos eléctricosT
+335991,Fabricación de productos eléctricos de carbón y grafito
+335999,Fabricación de otros productos eléctricos
+336,Fabricación de equipo de transporteT
+3361,Fabricación de automóviles y camionesT
+33611,Fabricación de automóviles y camionetasT
+336110,Fabricación de automóviles y camionetas
+33612,Fabricación de camiones y tractocamionesT
+336120,Fabricación de camiones y tractocamiones
+3362,Fabricación de carrocerías y remolquesT
+33621,Fabricación de carrocerías y remolquesT
+336210,Fabricación de carrocerías y remolques
+3363,Fabricación de partes para vehículos automotoresT
+33631,Fabricación de motores y sus partes para vehículos automotricesT
+336310,Fabricación de motores y sus partes para vehículos automotrices
+33632,Fabricación de equipo eléctrico y electrónico y sus partes para vehículos automotoresT
+336320,Fabricación de equipo eléctrico y electrónico y sus partes para vehículos automotores
+33633,Fabricación de partes de sistemas de dirección y de suspensión para vehículos automotricesT
+336330,Fabricación de partes de sistemas de dirección y de suspensión para vehículos automotrices
+33634,Fabricación de partes de sistemas de frenos para vehículos automotricesT
+336340,Fabricación de partes de sistemas de frenos para vehículos automotrices
+33635,Fabricación de partes de sistemas de transmisión para vehículos automotoresT
+336350,Fabricación de partes de sistemas de transmisión para vehículos automotores
+33636,Fabricación de asientos y accesorios interiores para vehículos automotoresT
+336360,Fabricación de asientos y accesorios interiores para vehículos automotores
+33637,Fabricación de piezas metálicas troqueladas para vehículos automotricesT
+336370,Fabricación de piezas metálicas troqueladas para vehículos automotrices
+33639,Fabricación de otras partes para vehículos automotricesT
+336390,Fabricación de otras partes para vehículos automotrices
+3364,Fabricación de equipo aeroespacialT
+33641,Fabricación de equipo aeroespacialT
+336410,Fabricación de equipo aeroespacial
+3365,Fabricación de equipo ferroviarioT
+33651,Fabricación de equipo ferroviarioT
+336510,Fabricación de equipo ferroviario
+3366,Fabricación de embarcacionesT
+33661,Fabricación de embarcacionesT
+336610,Fabricación de embarcaciones
+3369,Fabricación de otro equipo de transporteT
+33699,Fabricación de otro equipo de transporteT
+336991,Fabricación de motocicletas
+336992,Fabricación de bicicletas y triciclos
+336999,Fabricación de otro equipo de transporte
+337,"Fabricación de muebles, colchones y persianasT"
+3371,"Fabricación de muebles, excepto de oficina y estanteríaT"
+33711,Fabricación de cocinas integrales y muebles modulares de bañoT
+337110,Fabricación de cocinas integrales y muebles modulares de baño
+33712,"Fabricación de muebles, excepto cocinas integrales, muebles modulares de baño y muebles de oficina y estanteríaT"
+337120,"Fabricación de muebles, excepto cocinas integrales, muebles modulares de baño y muebles de oficina y estantería"
+3372,Fabricación de muebles de oficina y estanteríaT
+33721,Fabricación de muebles de oficina y estanteríaT
+337210,Fabricación de muebles de oficina y estantería
+3379,"Fabricación de colchones, persianas y cortinerosT"
+33791,Fabricación de colchonesT
+337910,Fabricación de colchones
+33792,Fabricación de persianas y cortinerosT
+337920,Fabricación de persianas y cortineros
+339,Otras industrias manufacturerasT
+3391,"Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicosT"
+33911,"Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicosT"
+339111,"Fabricación de equipo no electrónico para uso médico, dental y para laboratorio"
+339112,Fabricación de material desechable de uso médico
+339113,Fabricación de artículos oftálmicos
+3399,Otras industrias manufacturerasT
+33991,Metalistería y joyeríaT
+339911,Acuñación e impresión de monedas
+339912,Orfebrería y joyería de metales y piedras preciosos
+339913,Joyería de metales y piedras no preciosos y de otros materiales
+339914,Metalistería de metales no preciosos
+33992,Fabricación de artículos deportivosT
+339920,Fabricación de artículos deportivos
+33993,Fabricación de juguetesT
+339930,Fabricación de juguetes
+33994,"Fabricación de artículos y accesorios para escritura, pintura, dibujo y actividades de oficinaT"
+339940,"Fabricación de artículos y accesorios para escritura, pintura, dibujo y actividades de oficina"
+33995,Fabricación de anuncios y señalamientosT
+339950,Fabricación de anuncios y señalamientos
+33999,Otras industrias manufacturerasT
+339991,Fabricación de instrumentos musicales
+339992,"Fabricación de cierres, botones y agujas"
+339993,"Fabricación de escobas, cepillos y similares "
+339994,Fabricación de velas y veladoras
+339995,Fabricación de ataúdes
+339999,Otras industrias manufactureras
+43,Comercio al por mayorT
+431,"Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco"
+4311,Comercio al por mayor de abarrotes y alimentos
+43111,Comercio al por mayor de abarrotes
+431110,Comercio al por mayor de abarrotes
+43112,Comercio al por mayor de carnes
+431121,Comercio al por mayor de carnes rojas
+431122,Comercio al por mayor de carne de aves
+431123,Comercio al por mayor de pescados y mariscos
+43113,Comercio al por mayor de frutas y verduras frescas
+431130,Comercio al por mayor de frutas y verduras frescas
+43114,Comercio al por mayor de huevo
+431140,Comercio al por mayor de huevo
+43115,"Comercio al por mayor de semillas y granos alimenticios, especias y chiles secos"
+431150,"Comercio al por mayor de semillas y granos alimenticios, especias y chiles secos"
+43116,Comercio al por mayor de leche y otros productos lácteos
+431160,Comercio al por mayor de leche y otros productos lácteos
+43117,Comercio al por mayor de embutidos
+431170,Comercio al por mayor de embutidos
+43118,Comercio al por mayor de dulces y materias primas para repostería
+431180,Comercio al por mayor de dulces y materias primas para repostería
+43119,Comercio al por mayor de otros alimentos
+431191,Comercio al por mayor de pan y pasteles
+431192,Comercio al por mayor de botanas y frituras
+431193,Comercio al por mayor de conservas alimenticias
+431194,Comercio al por mayor de miel
+431199,Comercio al por mayor de otros alimentos
+4312,"Comercio al por mayor de bebidas, hielo y tabaco"
+43121,Comercio al por mayor de bebidas y hielo
+431211,Comercio al por mayor de bebidas no alcohólicas y hielo
+431212,Comercio al por mayor de vinos y licores
+431213,Comercio al por mayor de cerveza
+43122,"Comercio al por mayor de cigarros, puros y tabaco"
+431220,"Comercio al por mayor de cigarros, puros y tabaco"
+432,Comercio al por mayor de productos textiles y calzado
+4321,Comercio al por mayor de productos textiles y calzado
+43211,"Comercio al por mayor de productos textiles, excepto ropa"
+432111,"Comercio al por mayor de fibras, hilos y telas"
+432112,Comercio al por mayor de blancos
+432113,Comercio al por mayor de cueros y pieles
+432119,Comercio al por mayor de otros productos textiles
+43212,"Comercio al por mayor de ropa, bisutería y accesorios de vestir"
+432120,"Comercio al por mayor de ropa, bisutería y accesorios de vestir"
+43213,Comercio al por mayor de calzado
+432130,Comercio al por mayor de calzado
+433,"Comercio al por mayor de productos farmacéuticos, de perfumería, artículos para el esparcimiento, electrodomésticos menores y aparatos de línea blanca"
+4331,Comercio al por mayor de productos farmacéuticos
+43311,Comercio al por mayor de productos farmacéuticos
+433110,Comercio al por mayor de productos farmacéuticos
+4332,"Comercio al por mayor de artículos de perfumería, cosméticos y joyería"
+43321,Comercio al por mayor de artículos de perfumería y cosméticos
+433210,Comercio al por mayor de artículos de perfumería y cosméticos
+43322,Comercio al por mayor de artículos de joyería y relojes
+433220,Comercio al por mayor de artículos de joyería y relojes
+4333,"Comercio al por mayor de grabaciones de audio y video en medios físicos, juguetes y artículos deportivos"
+43331,"Comercio al por mayor de grabaciones de audio y video en medios físicos, juguetes y artículos deportivos"
+433311,Comercio al por mayor de grabaciones de audio y video en medios físicos
+433312,Comercio al por mayor de juguetes y bicicletas
+433313,Comercio al por mayor de artículos y aparatos deportivos
+4334,"Comercio al por mayor de artículos de papelería, libros, revistas y periódicos"
+43341,Comercio al por mayor de artículos de papelería
+433410,Comercio al por mayor de artículos de papelería
+43342,Comercio al por mayor de libros
+433420,Comercio al por mayor de libros
+43343,Comercio al por mayor de revistas y periódicos
+433430,Comercio al por mayor de revistas y periódicos
+4335,Comercio al por mayor de electrodomésticos menores y aparatos de línea blanca
+43351,Comercio al por mayor de electrodomésticos menores y aparatos de línea blanca
+433510,Comercio al por mayor de electrodomésticos menores y aparatos de línea blanca
+434,"Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho"
+4341,Comercio al por mayor de materias primas agropecuarias y forestales
+43411,Comercio al por mayor de materias primas agropecuarias y forestales
+434111,"Comercio al por mayor de fertilizantes, plaguicidas y semillas para siembra"
+434112,"Comercio al por mayor de medicamentos veterinarios y alimentos para animales, excepto mascotas"
+4342,Comercio al por mayor de materias primas para la industria
+43421,"Comercio al por mayor de materiales para la construcción, excepto de madera y metálicos"
+434211,"Comercio al por mayor de cemento, tabique y grava"
+434219,"Comercio al por mayor de otros materiales para la construcción, excepto de madera y metálicos"
+43422,Comercio al por mayor de otros materiales para la construcción y materias primas para otras industrias
+434221,Comercio al por mayor de materiales metálicos para la construcción y la manufactura
+434222,Comercio al por mayor de productos químicos para la industria farmacéutica y para otro uso industrial
+434223,"Comercio al por mayor de envases en general, papel y cartón para la industria"
+434224,Comercio al por mayor de madera para la construcción y la industria
+434225,Comercio al por mayor de equipo y material eléctrico
+434226,Comercio al por mayor de pintura
+434227,Comercio al por mayor de vidrios y espejos
+434228,Comercio al por mayor de ganado y aves en pie
+434229,Comercio al por mayor de otras materias primas para otras industrias
+43423,Comercio al por mayor de combustibles
+434230,Comercio al por mayor de combustibles
+43424,Comercio al por mayor de artículos desechables
+434240,Comercio al por mayor de artículos desechables
+4343,Comercio al por mayor de materiales de desecho
+43431,Comercio al por mayor de materiales de desecho
+434311,Comercio al por mayor de desechos metálicos
+434312,Comercio al por mayor de desechos de papel y de cartón
+434313,Comercio al por mayor de desechos de vidrio
+434314,Comercio al por mayor de desechos de plástico
+434319,Comercio al por mayor de otros materiales de desecho
+435,"Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general"
+4351,"Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca"
+43511,"Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca"
+435110,"Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca"
+4352,Comercio al por mayor de maquinaria y equipo para la industria
+43521,Comercio al por mayor de maquinaria y equipo para la construcción y la minería
+435210,Comercio al por mayor de maquinaria y equipo para la construcción y la minería
+43522,Comercio al por mayor de maquinaria y equipo para la industria manufacturera
+435220,Comercio al por mayor de maquinaria y equipo para la industria manufacturera
+4353,Comercio al por mayor de maquinaria y equipo para los servicios y para actividades comerciales
+43531,Comercio al por mayor de maquinaria y equipo para los servicios y para actividades comerciales
+435311,"Comercio al por mayor de equipo de telecomunicaciones, fotografía y cinematografía"
+435312,Comercio al por mayor de artículos y accesorios para diseño y pintura artística
+435313,"Comercio al por mayor de mobiliario, equipo e instrumental médico y de laboratorio"
+435319,Comercio al por mayor de maquinaria y equipo para otros servicios y para actividades comerciales
+4354,"Comercio al por mayor de mobiliario y equipo de cómputo y de oficina, y de otra maquinaria y equipo de uso general"
+43541,"Comercio al por mayor de mobiliario y equipo de cómputo y de oficina, y de otra maquinaria y equipo de uso general"
+435411,"Comercio al por mayor de mobiliario, equipo, y accesorios de cómputo"
+435412,Comercio al por mayor de mobiliario y equipo de oficina
+435419,Comercio al por mayor de otra maquinaria y equipo de uso general
+436,"Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones"
+4361,"Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones"
+43611,"Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones"
+436111,Comercio al por mayor de camiones
+436112,"Comercio al por mayor de partes y refacciones nuevas para automóviles, camionetas y camiones"
+437,Intermediación de comercio al por mayor
+4373,Intermediación de comercio al por mayor
+43731,Intermediación de comercio al por mayor
+437311,Intermediación de comercio al por mayor de productos agropecuarios
+437312,"Intermediación de comercio al por mayor de productos para la industria, el comercio y los servicios"
+437313,Intermediación de comercio al por mayor de productos de uso doméstico y personal
+46,Comercio al por menorT
+461,"Comercio al por menor de abarrotes, alimentos, bebidas, hielo y tabaco"
+4611,Comercio al por menor de abarrotes y alimentos
+46111,"Comercio al por menor en tiendas de abarrotes, ultramarinos y misceláneas"
+461110,"Comercio al por menor en tiendas de abarrotes, ultramarinos y misceláneas"
+46112,Comercio al por menor de carnes
+461121,Comercio al por menor de carnes rojas
+461122,Comercio al por menor de carne de aves
+461123,Comercio al por menor de pescados y mariscos
+46113,Comercio al por menor de frutas y verduras frescas
+461130,Comercio al por menor de frutas y verduras frescas
+46114,"Comercio al por menor de semillas y granos alimenticios, especias y chiles secos"
+461140,"Comercio al por menor de semillas y granos alimenticios, especias y chiles secos"
+46115,"Comercio al por menor de leche, otros productos lácteos y embutidos"
+461150,"Comercio al por menor de leche, otros productos lácteos y embutidos"
+46116,Comercio al por menor de dulces y materias primas para repostería
+461160,Comercio al por menor de dulces y materias primas para repostería
+46117,Comercio al por menor de paletas de hielo y helados
+461170,Comercio al por menor de paletas de hielo y helados
+46119,Comercio al por menor de otros alimentos
+461190,Comercio al por menor de otros alimentos
+4612,"Comercio al por menor de bebidas, hielo y tabaco"
+46121,Comercio al por menor de bebidas y hielo
+461211,Comercio al por menor de vinos y licores
+461212,Comercio al por menor de cerveza
+461213,Comercio al por menor de bebidas no alcohólicas y hielo
+46122,"Comercio al por menor de cigarros, puros y tabaco"
+461220,"Comercio al por menor de cigarros, puros y tabaco"
+462,Comercio al por menor en tiendas de autoservicio y departamentales
+4621,Comercio al por menor en tiendas de autoservicio
+46211,Comercio al por menor en tiendas de autoservicio
+462111,Comercio al por menor en supermercados
+462112,Comercio al por menor en minisupers
+4622,Comercio al por menor en tiendas departamentales
+46221,Comercio al por menor en tiendas departamentales
+462210,Comercio al por menor en tiendas departamentales
+463,"Comercio al por menor de productos textiles, bisutería, accesorios de vestir y calzado"
+4631,"Comercio al por menor de productos textiles, excepto ropa"
+46311,"Comercio al por menor de productos textiles, excepto ropa"
+463111,Comercio al por menor de telas
+463112,Comercio al por menor de blancos
+463113,Comercio al por menor de artículos de mercería y bonetería
+4632,"Comercio al por menor de ropa, bisutería y accesorios de vestir"
+46321,"Comercio al por menor de ropa, bisutería y accesorios de vestir"
+463211,"Comercio al por menor de ropa, excepto de bebé y lencería"
+463212,Comercio al por menor de ropa de bebé
+463213,Comercio al por menor de lencería
+463214,"Comercio al por menor de disfraces, trajes típicos y vestidos de novia"
+463215,Comercio al por menor de bisutería y accesorios de vestir
+463216,Comercio al por menor de ropa de cuero y piel y de otros artículos de estos materiales
+463217,Comercio al por menor de pañales desechables
+463218,Comercio al por menor de sombreros
+4633,Comercio al por menor de calzado
+46331,Comercio al por menor de calzado
+463310,Comercio al por menor de calzado
+464,Comercio al por menor de artículos para el cuidado de la salud
+4641,Comercio al por menor de artículos para el cuidado de la salud
+46411,Comercio al por menor de productos farmacéuticos y naturistas
+464111,Farmacias sin minisúper
+464112,Farmacias con minisúper
+464113,"Comercio al por menor de productos naturistas, medicamentos homeopáticos y de complementos alimenticios"
+46412,Comercio al por menor de lentes y artículos ortopédicos
+464121,Comercio al por menor de lentes
+464122,Comercio al por menor de artículos ortopédicos
+465,"Comercio al por menor de artículos de papelería, para el esparcimiento y otros artículos de uso personal"
+4651,Comercio al por menor de artículos de perfumería y joyería
+46511,Comercio al por menor de artículos de perfumería y joyería
+465111,Comercio al por menor de artículos de perfumería y cosméticos
+465112,Comercio al por menor de artículos de joyería y relojes
+4652,Comercio al por menor de artículos para el esparcimiento
+46521,Comercio al por menor de artículos para el esparcimiento
+465211,Comercio al por menor de grabaciones de audio y video en medios físicos
+465212,Comercio al por menor de juguetes
+465213,Comercio al por menor de bicicletas y triciclos
+465214,Comercio al por menor de equipo y material fotográfico
+465215,Comercio al por menor de artículos y aparatos deportivos
+465216,Comercio al por menor de instrumentos musicales
+4653,"Comercio al por menor de artículos de papelería, libros, revistas y periódicos"
+46531,"Comercio al por menor de artículos de papelería, libros, revistas y periódicos"
+465311,Comercio al por menor de artículos de papelería
+465312,Comercio al por menor de libros
+465313,Comercio al por menor de revistas y periódicos
+4659,"Comercio al por menor de mascotas y sus accesorios, regalos, artículos religiosos, desechables, artesanías y otros artículos de uso personal"
+46591,"Comercio al por menor de mascotas y sus accesorios, regalos, artículos religiosos, desechables, artesanías y otros artículos de uso personal"
+465911,Comercio al por menor de mascotas y sus accesorios
+465912,Comercio al por menor de regalos
+465913,Comercio al por menor de artículos religiosos
+465914,Comercio al por menor de artículos desechables
+465915,Comercio al por menor en tiendas de artesanías
+465919,Comercio al por menor de otros artículos de uso personal
+466,"Comercio al por menor de enseres domésticos, computadoras, artículos para la decoración de interiores y artículos usados"
+4661,Comercio al por menor de muebles para el hogar y otros enseres domésticos
+46611,Comercio al por menor de muebles para el hogar y otros enseres domésticos
+466111,Comercio al por menor de muebles para el hogar
+466112,Comercio al por menor de electrodomésticos menores y aparatos de línea blanca
+466113,Comercio al por menor de muebles para jardín
+466114,"Comercio al por menor de cristalería, loza y utensilios de cocina"
+4662,"Comercio al por menor de mobiliario, equipo y accesorios de cómputo, teléfonos y otros aparatos de comunicación"
+46621,"Comercio al por menor de mobiliario, equipo y accesorios de cómputo, teléfonos y otros aparatos de comunicación"
+466211,"Comercio al por menor de mobiliario, equipo y accesorios de cómputo"
+466212,Comercio al por menor de teléfonos y otros aparatos de comunicación
+4663,Comercio al por menor de artículos para la decoración de interiores
+46631,Comercio al por menor de artículos para la decoración de interiores
+466311,"Comercio al por menor de alfombras, cortinas, tapices y similares"
+466312,Comercio al por menor de plantas y flores naturales
+466313,Comercio al por menor de antigüedades y obras de arte
+466314,Comercio al por menor de lámparas ornamentales y candiles
+466319,Comercio al por menor de otros artículos para la decoración de interiores
+4664,Comercio al por menor de artículos usados
+46641,Comercio al por menor de artículos usados
+466410,Comercio al por menor de artículos usados
+467,"Comercio al por menor de artículos de ferretería, tlapalería y vidrios"
+4671,"Comercio al por menor de artículos de ferretería, tlapalería y vidrios"
+46711,"Comercio al por menor de artículos de ferretería, tlapalería y vidrios"
+467111,Comercio al por menor en ferreterías y tlapalerías
+467112,Comercio al por menor de pisos y recubrimientos cerámicos
+467113,Comercio al por menor de pintura
+467114,Comercio al por menor de vidrios y espejos
+467115,Comercio al por menor de artículos para la limpieza
+467116,Comercio al por menor de materiales para la construcción en tiendas de autoservicio especializadas
+467117,Comercio al por menor de artículos para albercas y otros artículos
+468,"Comercio al por menor de vehículos de motor, refacciones, combustibles y lubricantes"
+4681,Comercio al por menor de automóviles y camionetas
+46811,Comercio al por menor de automóviles y camionetas
+468111,Comercio al por menor de automóviles y camionetas nuevos
+468112,Comercio al por menor de automóviles y camionetas usados
+4682,"Comercio al por menor de partes y refacciones para automóviles, camionetas y camiones"
+46821,"Comercio al por menor de partes y refacciones para automóviles, camionetas y camiones"
+468211,"Comercio al por menor de partes y refacciones nuevas para automóviles, camionetas y camiones"
+468212,"Comercio al por menor de partes y refacciones usadas para automóviles, camionetas y camiones"
+468213,"Comercio al por menor de llantas y cámaras para automóviles, camionetas y camiones"
+4683,Comercio al por menor de motocicletas y otros vehículos de motor
+46831,Comercio al por menor de motocicletas y otros vehículos de motor
+468311,Comercio al por menor de motocicletas
+468319,Comercio al por menor de otros vehículos de motor
+4684,"Comercio al por menor de combustibles, aceites y grasas lubricantes"
+46841,Comercio al por menor de combustibles
+468411,Comercio al por menor de gasolina y diésel
+468412,Comercio al por menor de gas LP en cilindros y para tanques estacionarios
+468413,Comercio al por menor de gas LP en estaciones de carburación
+468414,Comercio al por menor en estaciones de gas natural vehicular
+468419,Comercio al por menor de otros combustibles
+46842,"Comercio al por menor de aceites y grasas lubricantes, aditivos y similares para vehículos de motor"
+468420,"Comercio al por menor de aceites y grasas lubricantes, aditivos y similares para vehículos de motor"
+469,"Intermediación de comercio al por menor, y comercio al por menor a través de catálogos impresos, televisión y similares"
+4691,"Intermediación de comercio al por menor, y comercio al por menor a través de catálogos impresos, televisión y similares"
+46911,"Intermediación de comercio al por menor, y comercio al por menor a través de catálogos impresos, televisión y similares"
+469110,"Intermediación de comercio al por menor, y comercio al por menor a través de catálogos impresos, televisión y similares"
+48-49,"Transportes, correos y almacenamientoT"
+481,Transporte aéreoT
+4811,Transporte aéreo regularT
+48111,Transporte aéreo regularT
+481111,Transporte aéreo regular en líneas aéreas nacionales
+481112,Transporte aéreo regular en líneas aéreas extranjeras
+4812,Transporte aéreo no regularT
+48121,Transporte aéreo no regularT
+481210,Transporte aéreo no regular
+482,Transporte por ferrocarrilT
+4821,Transporte por ferrocarrilT
+48211,Transporte por ferrocarrilT
+482110,Transporte por ferrocarril
+483,Transporte por aguaT
+4831,Transporte marítimoT
+48311,Transporte marítimoT
+483111,"Transporte marítimo de altura, excepto de petróleo y gas natural"
+483112,"Transporte marítimo de cabotaje, excepto de petróleo y gas natural"
+483113,Transporte marítimo de petróleo y gas natural
+4832,Transporte por aguas interioresT
+48321,Transporte por aguas interioresT
+483210,Transporte por aguas interiores
+484,Autotransporte de cargaT
+4841,Autotransporte de carga generalT
+48411,Autotransporte local de carga generalT
+484111,Autotransporte local de productos agrícolas sin refrigeración
+484119,Otro autotransporte local de carga general
+48412,Autotransporte foráneo de carga generalT
+484121,Autotransporte foráneo de productos agrícolas sin refrigeración
+484129,Otro autotransporte foráneo de carga general
+4842,Autotransporte de carga especializadoT
+48421,Servicios de mudanzasT
+484210,Servicios de mudanzas
+48422,"Autotransporte local de carga especializado, excepto mudanzasT"
+484221,Autotransporte local de materiales para la construcción
+484222,Autotransporte local de materiales y residuos peligrosos
+484223,Autotransporte local con refrigeración
+484224,Autotransporte local de madera
+484229,Otro autotransporte local de carga especializado
+48423,"Autotransporte foráneo de carga especializado, excepto mudanzasT"
+484231,Autotransporte foráneo de materiales para la construcción
+484232,Autotransporte foráneo de materiales y residuos peligrosos
+484233,Autotransporte foráneo con refrigeración
+484234,Autotransporte foráneo de madera
+484239,Otro autotransporte foráneo de carga especializado
+485,"Transporte terrestre de pasajeros, excepto por ferrocarrilT"
+4851,Transporte colectivo urbano y suburbano de pasajeros de ruta fijaT
+48511,Transporte colectivo urbano y suburbano de pasajeros de ruta fijaT
+485111,Transporte colectivo urbano y suburbano de pasajeros en autobuses de ruta fija
+485112,Transporte colectivo urbano y suburbano de pasajeros en automóviles de ruta fija
+485113,Transporte colectivo urbano y suburbano de pasajeros en trolebuses y trenes ligeros
+485114,Transporte colectivo urbano y suburbano de pasajeros en metro
+485115,Transporte colectivo urbano y suburbano de pasajeros en autobuses que transitan en carril exclusivo
+4852,Transporte colectivo foráneo de pasajeros de ruta fijaT
+48521,Transporte colectivo foráneo de pasajeros de ruta fijaT
+485210,Transporte colectivo foráneo de pasajeros de ruta fija
+4853,Servicio de taxis y limusinasT
+48531,Servicio de taxisT
+485311,Transporte de pasajeros en taxis de sitio
+485312,Transporte de pasajeros en taxis de ruleteo
+48532,Alquiler de automóviles con choferT
+485320,Alquiler de automóviles con chofer
+4854,Transporte escolar y de personalT
+48541,Transporte escolar y de personalT
+485410,Transporte escolar y de personal
+4855,Alquiler de autobuses con choferT
+48551,Alquiler de autobuses con choferT
+485510,Alquiler de autobuses con chofer
+4859,Otro transporte terrestre de pasajerosT
+48599,Otro transporte terrestre de pasajerosT
+485990,Otro transporte terrestre de pasajeros
+486,Transporte por ductosT
+4861,Transporte de petróleo crudo por ductosT
+48611,Transporte de petróleo crudo por ductosT
+486110,Transporte de petróleo crudo por ductos
+4862,Transporte de gas natural por ductosT
+48621,Transporte de gas natural por ductosT
+486210,Transporte de gas natural por ductos
+4869,Transporte por ductos de otros productosT
+48691,Transporte por ductos de productos refinados del petróleoT
+486910,Transporte por ductos de productos refinados del petróleo
+48699,"Transporte por ductos de otros productos, excepto de productos refinados del petróleoT"
+486990,"Transporte por ductos de otros productos, excepto de productos refinados del petróleo"
+487,Transporte turísticoT
+4871,Transporte turístico por tierraT
+48711,Transporte turístico por tierraT
+487110,Transporte turístico por tierra
+4872,Transporte turístico por aguaT
+48721,Transporte turístico por aguaT
+487210,Transporte turístico por agua
+4879,Otro transporte turísticoT
+48799,Otro transporte turísticoT
+487990,Otro transporte turístico
+488,Servicios relacionados con el transporteT
+4881,Servicios relacionados con el transporte aéreoT
+48811,Operaciones aeroportuariasT
+488111,Servicios a la navegación aérea
+488112,Administración de aeropuertos y helipuertos
+48819,Otros servicios relacionados con el transporte aéreoT
+488190,Otros servicios relacionados con el transporte aéreo
+4882,Servicios relacionados con el transporte por ferrocarrilT
+48821,Servicios relacionados con el transporte por ferrocarrilT
+488210,Servicios relacionados con el transporte por ferrocarril
+4883,Servicios relacionados con el transporte por aguaT
+48831,Administración de puertos y muellesT
+488310,Administración de puertos y muelles
+48832,Servicios de carga y descarga para el transporte por aguaT
+488320,Servicios de carga y descarga para el transporte por agua
+48833,Servicios para la navegación por aguaT
+488330,Servicios para la navegación por agua
+48839,Otros servicios relacionados con el transporte por aguaT
+488390,Otros servicios relacionados con el transporte por agua
+4884,Servicios relacionados con el transporte por carreteraT
+48841,Servicios de grúaT
+488410,Servicios de grúa
+48849,Otros servicios relacionados con el transporte por carreteraT
+488491,Servicios de administración de centrales camioneras
+488492,"Servicios de administración de carreteras, puentes y servicios auxiliares"
+488493,Servicios de báscula para el transporte y otros servicios relacionados con el transporte por carretera
+4885,Servicios de intermediación para el transporte de cargaT
+48851,Servicios de intermediación para el transporte de cargaT
+488511,Servicios de agencias aduanales
+488519,Otros servicios de intermediación para el transporte de carga
+4889,Otros servicios relacionados con el transporteT
+48899,Otros servicios relacionados con el transporteT
+488990,Otros servicios relacionados con el transporte
+491,Servicios postalesT
+4911,Servicios postalesT
+49111,Servicios postalesT
+491110,Servicios postales
+492,Servicios de mensajería y paqueteríaT
+4921,Servicios de mensajería y paquetería foráneaT
+49211,Servicios de mensajería y paquetería foráneaT
+492110,Servicios de mensajería y paquetería foránea
+4922,Servicios de mensajería y paquetería localT
+49221,Servicios de mensajería y paquetería localT
+492210,Servicios de mensajería y paquetería local
+493,Servicios de almacenamientoT
+4931,Servicios de almacenamientoT
+49311,Almacenes generales de depósito y otros servicios de almacenamiento general sin instalaciones especializadasT
+493111,Almacenes generales de depósito
+493119,Otros servicios de almacenamiento general sin instalaciones especializadas
+49312,Almacenamiento con refrigeraciónT
+493120,Almacenamiento con refrigeración
+49313,Almacenamiento de productos agrícolas que no requieren refrigeraciónT
+493130,Almacenamiento de productos agrícolas que no requieren refrigeración
+49319,Otros servicios de almacenamiento con instalaciones especializadasT
+493190,Otros servicios de almacenamiento con instalaciones especializadas
+51,Información en medios masivosT
+512,"Industria fílmica y del video, e industria del sonidoT"
+5121,Industria fílmica y del videoT
+51211,"Producción de películas, programas para la televisión y otros materiales audiovisualesT"
+512111,Producción de películas
+512112,Producción de programas para la televisión
+512113,"Producción de videoclips, comerciales y otros materiales audiovisuales"
+51212,Distribución de películas y de otros materiales audiovisualesT
+512120,Distribución de películas y de otros materiales audiovisuales
+51213,Exhibición de películas y otros materiales audiovisualesT
+512130,Exhibición de películas y otros materiales audiovisuales
+51219,Servicios de postproducción y otros servicios para la industria fílmica y del videoT
+512190,Servicios de postproducción y otros servicios para la industria fílmica y del video
+5122,Industria del sonidoT
+51223,Editoras de músicaT
+512230,Editoras de música
+51224,Grabación de discos compactos (CD) y de video digital (DVD) o casetes musicalesT
+512240,Grabación de discos compactos (CD) y de video digital (DVD) o casetes musicales
+51225,Productoras y distribuidoras discográficasT
+512250,Productoras y distribuidoras discográficas
+51229,Otros servicios de grabación del sonidoT
+512290,Otros servicios de grabación del sonido
+513,"Edición de periódicos, revistas, libros, directorios, software y otros materialesT"
+5131,"Edición de periódicos, revistas, libros, directorios y otros materialesT"
+51311,Edición de periódicosT
+513111,Edición de periódicos en formato electrónico
+513112,Edición de periódicos integrada con la impresión
+51312,Edición de revistas y otras publicaciones periódicasT
+513121,Edición de revistas y otras publicaciones periódicas en formato electrónico
+513122,Edición de revistas y otras publicaciones periódicas integrada con la impresión
+51313,Edición de librosT
+513131,Edición de libros en formato electrónico
+513132,Edición de libros integrada con la impresión
+51314,Edición de directorios y listas de correoT
+513141,Edición de directorios y listas de correo en formato electrónico
+513142,Edición de directorios y listas de correo integrada con la impresión
+51319,Edición de otros materialesT
+513191,Edición de otros materiales en formato electrónico
+513192,Edición de otros materiales integrada con la impresión
+5132,Edición de softwareT
+51321,Edición de softwareT
+513210,Edición de software
+516,Radio y televisión y provisión de contenidoT
+5161,Estaciones de transmisión de programas de radio y televisiónT
+51611,Estaciones de transmisión de programas de radioT
+516110,Estaciones de transmisión de programas de radio
+51612,Estaciones de transmisión de programas de televisiónT
+516120,Estaciones de transmisión de programas de televisión
+5162,"Servicios de distribución de audio y video en tiempo real (streaming), redes sociales, cadenas de radio y televisión y otros proveedores de contenidoT"
+51621,"Servicios de distribución de audio y video en tiempo real (streaming), redes sociales, cadenas de radio y televisión y otros proveedores de contenidoT"
+516210,"Servicios de distribución de audio y video en tiempo real (streaming), redes sociales, cadenas de radio y televisión y otros proveedores de contenido"
+517,TelecomunicacionesT
+5173,Operadores de servicios de telecomunicaciones alámbricas e inalámbricas
+51731,Operadores de servicios de telecomunicaciones alámbricas e inalámbricas
+517311,Operadores de servicios de telecomunicaciones alámbricas
+517312,Operadores de servicios de telecomunicaciones inalámbricas
+5174,Operadores de servicios de telecomunicaciones vía satéliteT
+51741,Operadores de servicios de telecomunicaciones vía satéliteT
+517410,Operadores de servicios de telecomunicaciones vía satélite
+5179,Otros servicios de telecomunicaciones
+51791,Otros servicios de telecomunicaciones
+517910,Otros servicios de telecomunicaciones
+518,"Provisión de infraestructura de servicios de cómputo, procesamiento de datos, hospedaje de páginas de internet y otros servicios relacionadosT"
+5182,"Provisión de infraestructura de servicios de cómputo, procesamiento de datos, hospedaje de páginas de internet y otros servicios relacionadosT"
+51821,"Provisión de infraestructura de servicios de cómputo, procesamiento de datos, hospedaje de páginas de internet y otros servicios relacionadosT"
+518210,"Provisión de infraestructura de servicios de cómputo, procesamiento de datos, hospedaje de páginas de internet y otros servicios relacionados"
+519,"Bibliotecas, archivos, portales de búsqueda en la red y otros servicios de suministro de informaciónT"
+5192,"Bibliotecas, archivos, portales de búsqueda en la red y otros servicios de suministro de informaciónT"
+51921,Bibliotecas y archivosT
+519211,Bibliotecas y archivos del sector privado
+519212,Bibliotecas y archivos del sector público
+51929,Portales de búsqueda en la red y otros servicios de suministro de informaciónT
+519290,Portales de búsqueda en la red y otros servicios de suministro de información
+52,Servicios financieros y de segurosT
+521,Banca centralT
+5211,Banca centralT
+52111,Banca centralT
+521110,Banca central
+522,Instituciones de intermediación crediticia y financiera no bursátilT
+5221,Banca múltiple
+52211,Banca múltiple
+522110,Banca múltiple
+5222,Instituciones financieras de fomento económico
+52221,Banca de desarrollo
+522210,Banca de desarrollo
+52222,Fondos y fideicomisos financieros
+522220,Fondos y fideicomisos financieros
+5223,Uniones de crédito e instituciones de ahorro
+52231,Uniones de crédito
+522310,Uniones de crédito
+52232,"Cajas, cooperativas y sociedades financieras de ahorro y préstamo popular"
+522320,"Cajas, cooperativas y sociedades financieras de ahorro y préstamo popular"
+52239,Otras instituciones de ahorro y préstamo
+522390,Otras instituciones de ahorro y préstamo
+5224,Otras instituciones de intermediación crediticia y financiera no bursátil
+52244,Compañías de autofinanciamiento
+522440,Compañías de autofinanciamiento
+52245,Montepíos y casas de empeño
+522451,Montepíos
+522452,Casas de empeño
+52246,Sociedades financieras de objeto múltiple
+522460,Sociedades financieras de objeto múltiple
+52249,Otras instituciones de intermediación crediticia y financiera no bursátil
+522490,Otras instituciones de intermediación crediticia y financiera no bursátil
+5225,Servicios relacionados con la intermediación crediticia no bursátil
+52251,Servicios relacionados con la intermediación crediticia no bursátil
+522510,Servicios relacionados con la intermediación crediticia no bursátil
+523,"Actividades bursátiles, cambiarias y de inversión financieraT"
+5231,"Casas de bolsa, casas de cambio y centros cambiariosT"
+52311,Casas de bolsa
+523110,Casas de bolsa
+52312,Casas de cambio y centros cambiarios
+523121,Casas de cambio
+523122,Centros cambiarios
+5232,Bolsa de valoresT
+52321,Bolsa de valoresT
+523210,Bolsa de valores
+5239,Asesoría en inversiones y otros servicios relacionados con la intermediación bursátilT
+52391,Asesoría en inversiones
+523910,Asesoría en inversiones
+52399,Otros servicios relacionados con la intermediación bursátil
+523990,Otros servicios relacionados con la intermediación bursátil
+524,"Compañías de seguros, fianzas, y administración de fondos para el retiroT"
+5241,Compañías de seguros y fianzasT
+52411,Compañías de seguros
+524110,Compañías de seguros
+52412,Fondos de aseguramiento campesino
+524120,Fondos de aseguramiento campesino
+52413,Compañías afianzadoras
+524130,Compañías afianzadoras
+5242,"Servicios relacionados con los seguros y las fianzas, y administración de fondos para el retiroT"
+52421,"Agentes, ajustadores y gestores de seguros y fianzas"
+524210,"Agentes, ajustadores y gestores de seguros y fianzas"
+52422,Administración de fondos para el retiro
+524220,Administración de fondos para el retiro
+525,Sociedades de inversión especializadas en fondos para el retiro y fondos de inversión
+5251,Sociedades de inversión especializadas en fondos para el retiro
+52511,Sociedades de inversión especializadas en fondos para el retiro
+525110,Sociedades de inversión especializadas en fondos para el retiro
+5252,Fondos de inversión
+52521,Fondos de inversión
+525210,Fondos de inversión
+53,Servicios inmobiliarios y de alquiler de bienes muebles e intangiblesT
+531,Servicios inmobiliariosT
+5311,Alquiler sin intermediación de bienes raícesT
+53111,Alquiler sin intermediación de bienes raíces
+531111,Alquiler sin intermediación de viviendas amuebladas
+531112,Alquiler sin intermediación de viviendas no amuebladas
+531113,Alquiler sin intermediación de salones para fiestas y convenciones
+531114,Alquiler sin intermediación de oficinas y locales comerciales
+531115,"Alquiler sin intermediación de teatros, estadios, auditorios y similares"
+531116,Alquiler sin intermediación de edificios industriales dentro de un parque industrial
+531119,Alquiler sin intermediación de otros bienes raíces
+5312,Inmobiliarias y corredores de bienes raícesT
+53121,Inmobiliarias y corredores de bienes raícesT
+531210,Inmobiliarias y corredores de bienes raíces
+5313,Servicios relacionados con los servicios inmobiliariosT
+53131,Servicios relacionados con los servicios inmobiliarios
+531311,Servicios de administración de bienes raíces
+531319,Otros servicios relacionados con los servicios inmobiliarios
+532,Servicios de alquiler de bienes mueblesT
+5321,"Alquiler de automóviles, camiones y otros transportes terrestresT"
+53211,Alquiler de automóviles sin choferT
+532110,Alquiler de automóviles sin chofer
+53212,"Alquiler de camiones de carga, autobuses, minibuses y remolques sin choferT"
+532121,Alquiler de camiones de carga sin chofer
+532122,"Alquiler de autobuses, minibuses y remolques sin chofer"
+5322,Alquiler de artículos para el hogar y personalesT
+53221,Alquiler de aparatos eléctricos y electrónicos para el hogar y personalesT
+532210,Alquiler de aparatos eléctricos y electrónicos para el hogar y personales
+53228,Alquiler de otros artículos para el hogar y personalesT
+532281,Alquiler de prendas de vestir
+532282,"Alquiler de mesas, sillas, vajillas y similares"
+532289,Alquiler de otros artículos para el hogar y personales
+5323,Centros generales de alquilerT
+53231,Centros generales de alquilerT
+532310,Centros generales de alquiler
+5324,"Alquiler de maquinaria y equipo agropecuario, pesquero, industrial, comercial y de serviciosT"
+53241,"Alquiler de maquinaria y equipo para construcción, minería, actividades forestales y transporte, excepto terrestreT"
+532411,"Alquiler de maquinaria y equipo para construcción, minería y actividades forestales"
+532412,"Alquiler de equipo de transporte, excepto terrestre"
+53242,Alquiler de equipo de cómputo y de otras máquinas y mobiliario de oficinaT
+532420,Alquiler de equipo de cómputo y de otras máquinas y mobiliario de oficina
+53249,"Alquiler de otra maquinaria y equipo agropecuario, pesquero, para la industria manufacturera, comercial y de serviciosT"
+532491,"Alquiler de maquinaria y equipo agropecuario, pesquero y para la industria manufacturera"
+532492,"Alquiler de maquinaria y equipo para mover, levantar y acomodar materiales"
+532493,Alquiler de maquinaria y equipo comercial y de servicios
+533,"Servicios de alquiler de marcas registradas, patentes y franquiciasT"
+5331,"Servicios de alquiler de marcas registradas, patentes y franquiciasT"
+53311,"Servicios de alquiler de marcas registradas, patentes y franquiciasT"
+533110,"Servicios de alquiler de marcas registradas, patentes y franquicias"
+54,"Servicios profesionales, científicos y técnicosT"
+541,"Servicios profesionales, científicos y técnicosT"
+5411,Servicios legalesT
+54111,Bufetes jurídicosT
+541110,Bufetes jurídicos
+54112,Notarías públicasT
+541120,Notarías públicas
+54119,Servicios de apoyo para efectuar trámites legalesT
+541190,Servicios de apoyo para efectuar trámites legales
+5412,"Servicios de contabilidad, auditoría y servicios relacionadosT"
+54121,"Servicios de contabilidad, auditoría y servicios relacionadosT"
+541211,Servicios de contabilidad y auditoría
+541219,Otros servicios técnicos relacionados con la contabilidad
+5413,"Servicios de arquitectura, ingeniería y actividades relacionadasT"
+54131,Servicios de arquitecturaT
+541310,Servicios de arquitectura
+54132,Servicios de arquitectura de paisaje y urbanismoT
+541320,Servicios de arquitectura de paisaje y urbanismo
+54133,Servicios de ingenieríaT
+541330,Servicios de ingeniería
+54134,Servicios de dibujoT
+541340,Servicios de dibujo
+54135,Servicios de inspección de edificiosT
+541350,Servicios de inspección de edificios
+54136,Servicios de levantamiento geofísicoT
+541360,Servicios de levantamiento geofísico
+54137,Servicios de elaboración de mapasT
+541370,Servicios de elaboración de mapas
+54138,Servicios de laboratorios de pruebasT
+541380,Servicios de laboratorios de pruebas
+5414,Diseño especializadoT
+54141,Diseño y decoración de interioresT
+541410,Diseño y decoración de interiores
+54142,Diseño industrialT
+541420,Diseño industrial
+54143,Diseño gráficoT
+541430,Diseño gráfico
+54149,Diseño de modas y otros diseños especializadosT
+541490,Diseño de modas y otros diseños especializados
+5415,Servicios de diseño de sistemas de cómputo y servicios relacionadosT
+54151,Servicios de diseño de sistemas de cómputo y servicios relacionadosT
+541510,Servicios de diseño de sistemas de cómputo y servicios relacionados
+5416,"Servicios de consultoría administrativa, científica y técnicaT"
+54161,Servicios de consultoría en administraciónT
+541610,Servicios de consultoría en administración
+54162,Servicios de consultoría en medio ambienteT
+541620,Servicios de consultoría en medio ambiente
+54169,Otros servicios de consultoría científica y técnicaT
+541690,Otros servicios de consultoría científica y técnica
+5417,Servicios de investigación científica y desarrolloT
+54171,"Servicios de investigación científica y desarrollo en ciencias naturales y exactas, ingeniería, y ciencias de la vidaT"
+541711,"Servicios de investigación científica y desarrollo en ciencias naturales y exactas, ingeniería, y ciencias de la vida, prestados por el sector privado"
+541712,"Servicios de investigación científica y desarrollo en ciencias naturales y exactas, ingeniería, y ciencias de la vida, prestados por el sector público"
+54172,Servicios de investigación científica y desarrollo en ciencias sociales y humanidadesT
+541721,"Servicios de investigación científica y desarrollo en ciencias sociales y humanidades, prestados por el sector privado"
+541722,"Servicios de investigación científica y desarrollo en ciencias sociales y humanidades, prestados por el sector público"
+5418,Servicios de publicidad y actividades relacionadasT
+54181,Agencias de publicidadT
+541810,Agencias de publicidad
+54182,Agencias de relaciones públicasT
+541820,Agencias de relaciones públicas
+54183,Agencias de compra de medios a petición del clienteT
+541830,Agencias de compra de medios a petición del cliente
+54184,Agencias de representación de mediosT
+541840,Agencias de representación de medios
+54185,Agencias de anuncios publicitariosT
+541850,Agencias de anuncios publicitarios
+54186,Agencias de correo directoT
+541860,Agencias de correo directo
+54187,Distribución de material publicitarioT
+541870,Distribución de material publicitario
+54189,Servicios de rotulación y otros servicios de publicidadT
+541890,Servicios de rotulación y otros servicios de publicidad
+5419,"Otros servicios profesionales, científicos y técnicosT"
+54191,Servicios de investigación de mercados y encuestas de opinión públicaT
+541910,Servicios de investigación de mercados y encuestas de opinión pública
+54192,Servicios de fotografía y videograbaciónT
+541920,Servicios de fotografía y videograbación
+54193,Servicios de traducción e interpretaciónT
+541930,Servicios de traducción e interpretación
+54194,Servicios veterinariosT
+541941,Servicios veterinarios para mascotas prestados por el sector privado
+541942,Servicios veterinarios para mascotas prestados por el sector público
+541943,Servicios veterinarios para la ganadería prestados por el sector privado
+541944,Servicios veterinarios para la ganadería prestados por el sector público
+54199,"Otros servicios profesionales, científicos y técnicosT"
+541990,"Otros servicios profesionales, científicos y técnicos"
+55,Dirección y administración de grupos empresariales o corporativosT
+551,Dirección y administración de grupos empresariales o corporativosT
+5511,Dirección y administración de grupos empresariales o corporativosT
+55111,Dirección y administración de grupos empresariales o corporativosT
+551111,Dirección y administración de grupos empresariales o corporativos
+551112,Tenedoras de acciones
+56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediaciónT"
+561,Servicios de apoyo a los negociosT
+5611,Servicios de administración de negociosT
+56111,Servicios de administración de negociosT
+561110,Servicios de administración de negocios
+5612,Servicios integrales de apoyo a los negocios en instalacionesT
+56121,Servicios integrales de apoyo a los negocios en instalacionesT
+561210,Servicios integrales de apoyo a los negocios en instalaciones
+5613,Servicios de empleoT
+56131,Agencias de colocaciónT
+561310,Agencias de colocación
+56132,Agencias de empleo temporalT
+561320,Agencias de empleo temporal
+56133,Suministro de personal permanenteT
+561330,Suministro de personal permanente
+5614,"Servicios de apoyo secretarial, fotocopiado, cobranza, investigación crediticia y similaresT"
+56141,Servicios de preparación de documentosT
+561410,Servicios de preparación de documentos
+56142,"Servicios de casetas telefónicas, recepción de llamadas y promoción por teléfonoT"
+561421,Servicios de casetas telefónicas
+561422,Servicios de recepción de llamadas telefónicas y promoción por teléfono
+56143,"Servicios de fotocopiado, fax, acceso a computadoras y afinesT"
+561431,"Servicios de fotocopiado, fax y afines"
+561432,Servicios de acceso a computadoras
+56144,Agencias de cobranzaT
+561440,Agencias de cobranza
+56145,Despachos de investigación de solvencia financieraT
+561450,Despachos de investigación de solvencia financiera
+56149,Otros servicios de apoyo secretarial y similaresT
+561490,Otros servicios de apoyo secretarial y similares
+5615,Agencias de viajes y servicios de reservacionesT
+56151,Agencias de viajesT
+561510,Agencias de viajes
+56152,Organización de excursiones y paquetes turísticos para agencias de viajes (Operadores de tours)T
+561520,Organización de excursiones y paquetes turísticos para agencias de viajes (Operadores de tours)
+56159,Otros servicios de reservacionesT
+561590,Otros servicios de reservaciones
+5616,"Servicios de investigación, protección y seguridadT"
+56161,"Servicios de investigación y de protección y custodia, excepto mediante monitoreoT"
+561610,"Servicios de investigación y de protección y custodia, excepto mediante monitoreo"
+56162,Servicios de protección y custodia mediante el monitoreo de sistemas de seguridadT
+561620,Servicios de protección y custodia mediante el monitoreo de sistemas de seguridad
+5617,Servicios de limpiezaT
+56171,Servicios de control y exterminación de plagasT
+561710,Servicios de control y exterminación de plagas
+56172,Servicios de limpieza de inmueblesT
+561720,Servicios de limpieza de inmuebles
+56173,Servicios de instalación y mantenimiento de áreas verdesT
+561730,Servicios de instalación y mantenimiento de áreas verdes
+56174,"Servicios de limpieza de tapicería, alfombras y mueblesT"
+561740,"Servicios de limpieza de tapicería, alfombras y muebles"
+56179,Otros servicios de limpiezaT
+561790,Otros servicios de limpieza
+5619,Otros servicios de apoyo a los negociosT
+56191,Servicios de empacado y etiquetadoT
+561910,Servicios de empacado y etiquetado
+56192,Organizadores de convenciones y ferias comerciales e industrialesT
+561920,Organizadores de convenciones y ferias comerciales e industriales
+56199,Otros servicios de apoyo a los negociosT
+561990,Otros servicios de apoyo a los negocios
+562,Manejo de residuos y servicios de remediaciónT
+5621,Recolección de residuos
+56211,Recolección de residuos peligrosos
+562111,Recolección de residuos peligrosos por el sector privado
+562112,Recolección de residuos peligrosos por el sector público
+56212,Recolección de residuos no peligrosos
+562121,Recolección de residuos no peligrosos por el sector privado
+562122,Recolección de residuos no peligrosos por el sector público
+5622,Tratamiento y disposición final de residuos
+56221,Tratamiento y disposición final de residuos peligrosos
+562211,Tratamiento y disposición final de residuos peligrosos por el sector privado
+562212,Tratamiento y disposición final de residuos peligrosos por el sector público
+56222,Tratamiento y disposición final de residuos no peligrosos
+562221,Tratamiento y disposición final de residuos no peligrosos por el sector privado
+562222,Tratamiento y disposición final de residuos no peligrosos por el sector público
+5629,"Servicios de remediación, recuperación, y otros servicios de manejo de residuos"
+56291,Servicios de remediación
+562911,Servicios de remediación por el sector privado
+562912,Servicios de remediación por el sector público
+56292,Recuperación de residuos
+562921,Recuperación de residuos por el sector privado
+562922,Recuperación de residuos por el sector público
+56299,Otros servicios de manejo de residuos
+562998,Otros servicios de manejo de residuos por el sector privado
+562999,Otros servicios de manejo de residuos por el sector público
+61,Servicios educativosT
+611,Servicios educativosT
+6111,"Escuelas de educación básica, media y para necesidades especialesT"
+61111,Escuelas de educación preescolar y centros de estimulación temprana
+611111,Escuelas de educación preescolar y centros de estimulación temprana del sector privado
+611112,Escuelas de educación preescolar y centros de estimulación temprana del sector público
+61112,Escuelas de educación primaria
+611121,Escuelas de educación primaria del sector privado
+611122,Escuelas de educación primaria del sector público
+61113,Escuelas de educación secundaria general
+611131,Escuelas de educación secundaria general del sector privado
+611132,Escuelas de educación secundaria general del sector público
+61114,Escuelas de educación secundaria técnica
+611141,Escuelas de educación secundaria técnica del sector privado
+611142,Escuelas de educación secundaria técnica del sector público
+61115,Escuelas de educación media técnica terminal
+611151,Escuelas de educación media técnica terminal del sector privado
+611152,Escuelas de educación media técnica terminal del sector público
+61116,Escuelas de educación media superior
+611161,Escuelas de educación media superior del sector privado
+611162,Escuelas de educación media superior del sector público
+61117,Escuelas que combinan diversos niveles de educación
+611171,Escuelas del sector privado que combinan diversos niveles de educación
+611172,Escuelas del sector público que combinan diversos niveles de educación
+61118,Escuelas de educación para necesidades especiales
+611181,Escuelas del sector privado de educación para necesidades especiales
+611182,Escuelas del sector público de educación para necesidades especiales
+6112,Escuelas de educación técnica superiorT
+61121,Escuelas de educación técnica superiorT
+611211,Escuelas de educación técnica superior del sector privado
+611212,Escuelas de educación técnica superior del sector público
+6113,Escuelas de educación superiorT
+61131,Escuelas de educación superiorT
+611311,Escuelas de educación superior del sector privado
+611312,Escuelas de educación superior del sector público
+6114,"Escuelas comerciales, de computación y de capacitación para ejecutivosT"
+61141,Escuelas comerciales y secretarialesT
+611411,Escuelas comerciales y secretariales del sector privado
+611412,Escuelas comerciales y secretariales del sector público
+61142,Escuelas de computaciónT
+611421,Escuelas de computación del sector privado
+611422,Escuelas de computación del sector público
+61143,Escuelas para la capacitación de ejecutivosT
+611431,Escuelas para la capacitación de ejecutivos del sector privado
+611432,Escuelas para la capacitación de ejecutivos del sector público
+6115,Escuelas de oficiosT
+61151,Escuelas de oficiosT
+611511,Escuelas del sector privado dedicadas a la enseñanza de oficios
+611512,Escuelas del sector público dedicadas a la enseñanza de oficios
+6116,Otros servicios educativosT
+61161,Escuelas de arteT
+611611,Escuelas de arte del sector privado
+611612,Escuelas de arte del sector público
+61162,Escuelas de deporteT
+611621,Escuelas de deporte del sector privado
+611622,Escuelas de deporte del sector público
+61163,Escuelas de idiomasT
+611631,Escuelas de idiomas del sector privado
+611632,Escuelas de idiomas del sector público
+61169,Otros servicios educativosT
+611691,Servicios de profesores particulares
+611698,Otros servicios educativos proporcionados por el sector privado
+611699,Otros servicios educativos proporcionados por el sector público
+6117,Servicios de apoyo a la educaciónT
+61171,Servicios de apoyo a la educaciónT
+611710,Servicios de apoyo a la educación
+62,Servicios de salud y de asistencia socialT
+621,Servicios médicos de consulta externa y servicios relacionadosT
+6211,Consultorios médicosT
+62111,Consultorios médicosT
+621111,Consultorios de medicina general del sector privado
+621112,Consultorios de medicina general del sector público
+621113,Consultorios de medicina especializada del sector privado
+621114,Consultorios de medicina especializada del sector público
+621115,Clínicas de consultorios médicos del sector privado
+621116,Clínicas de consultorios médicos del sector público
+6212,Consultorios dentalesT
+62121,Consultorios dentalesT
+621211,Consultorios dentales del sector privado
+621212,Consultorios dentales del sector público
+6213,Otros consultorios para el cuidado de la saludT
+62131,Consultorios de quiroprácticaT
+621311,Consultorios de quiropráctica del sector privado
+621312,Consultorios de quiropráctica del sector público
+62132,Consultorios de optometríaT
+621320,Consultorios de optometría
+62133,Consultorios de psicologíaT
+621331,Consultorios de psicología del sector privado
+621332,Consultorios de psicología del sector público
+62134,"Consultorios de audiología y de terapia ocupacional, física y del lenguajeT"
+621341,"Consultorios del sector privado de audiología y de terapia ocupacional, física y del lenguaje"
+621342,"Consultorios del sector público de audiología y de terapia ocupacional, física y del lenguaje"
+62139,Otros consultorios para el cuidado de la saludT
+621391,Consultorios de nutriólogos y dietistas del sector privado
+621392,Consultorios de nutriólogos y dietistas del sector público
+621398,Otros consultorios del sector privado para el cuidado de la salud
+621399,Otros consultorios del sector público para el cuidado de la salud
+6214,Centros para la atención de pacientes que no requieren hospitalizaciónT
+62141,Centros de planificación familiarT
+621411,Centros de planificación familiar del sector privado
+621412,Centros de planificación familiar del sector público
+62142,Centros de atención médica externa para enfermos mentales y adictosT
+621421,Centros del sector privado de atención médica externa para enfermos mentales y adictos
+621422,Centros del sector público de atención médica externa para enfermos mentales y adictos
+62149,Otros centros para la atención de pacientes que no requieren hospitalizaciónT
+621491,Otros centros del sector privado para la atención de pacientes que no requieren hospitalización
+621492,Otros centros del sector público para la atención de pacientes que no requieren hospitalización
+6215,Laboratorios médicos y de diagnósticoT
+62151,Laboratorios médicos y de diagnósticoT
+621511,Laboratorios médicos y de diagnóstico del sector privado
+621512,Laboratorios médicos y de diagnóstico del sector público
+6216,Servicios de enfermería a domicilioT
+62161,Servicios de enfermería a domicilioT
+621610,Servicios de enfermería a domicilio
+6219,"Servicios de ambulancias, de bancos de órganos y otros servicios auxiliares al tratamiento médicoT"
+62191,Servicios de ambulanciasT
+621910,Servicios de ambulancias
+62199,"Servicios de bancos de órganos, bancos de sangre y otros servicios auxiliares al tratamiento médicoT"
+621991,"Servicios de bancos de órganos, bancos de sangre y otros servicios auxiliares al tratamiento médico prestados por el sector privado"
+621992,"Servicios de bancos de órganos, bancos de sangre y otros servicios auxiliares al tratamiento médico prestados por el sector público"
+622,HospitalesT
+6221,Hospitales generalesT
+62211,Hospitales generalesT
+622111,Hospitales generales del sector privado
+622112,Hospitales generales del sector público
+6222,Hospitales psiquiátricos y para el tratamiento por adicciónT
+62221,Hospitales psiquiátricos y para el tratamiento por adicciónT
+622211,Hospitales psiquiátricos y para el tratamiento por adicción del sector privado
+622212,Hospitales psiquiátricos y para el tratamiento por adicción del sector público
+6223,Hospitales de otras especialidades médicasT
+62231,Hospitales de otras especialidades médicasT
+622311,Hospitales del sector privado de otras especialidades médicas
+622312,Hospitales del sector público de otras especialidades médicas
+623,Residencias de asistencia social y para el cuidado de la saludT
+6231,"Residencias con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminalesT"
+62311,"Residencias con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminalesT"
+623111,"Residencias del sector privado con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales"
+623112,"Residencias del sector público con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales"
+6232,"Residencias para el cuidado de personas con problemas de retardo mental, trastorno mental y adiccionesT"
+62321,Residencias para el cuidado de personas con problemas de retardo mentalT
+623211,Residencias del sector privado para el cuidado de personas con problemas de retardo mental
+623212,Residencias del sector público para el cuidado de personas con problemas de retardo mental
+62322,Residencias para el cuidado de personas con problemas de trastorno mental y adicciónT
+623221,Residencias del sector privado para el cuidado de personas con problemas de trastorno mental y adicción
+623222,Residencias del sector público para el cuidado de personas con problemas de trastorno mental y adicción
+6233,Asilos y otras residencias para el cuidado de ancianosT
+62331,Asilos y otras residencias para el cuidado de ancianosT
+623311,Asilos y otras residencias del sector privado para el cuidado de ancianos
+623312,Asilos y otras residencias del sector público para el cuidado de ancianos
+6239,Orfanatos y otras residencias de asistencia socialT
+62399,Orfanatos y otras residencias de asistencia socialT
+623991,Orfanatos y otras residencias de asistencia social del sector privado
+623992,Orfanatos y otras residencias de asistencia social del sector público
+624,Otros servicios de asistencia socialT
+6241,Servicios de orientación y trabajo socialT
+62411,Servicios de orientación y trabajo social para la niñez y la juventudT
+624111,Servicios de orientación y trabajo social para la niñez y la juventud prestados por el sector privado
+624112,Servicios de orientación y trabajo social para la niñez y la juventud prestados por el sector público
+62412,Centros de atención y cuidado diurno de ancianos y personas con discapacidadT
+624121,Centros del sector privado dedicados a la atención y cuidado diurno de ancianos y personas con discapacidad
+624122,Centros del sector público dedicados a la atención y cuidado diurno de ancianos y personas con discapacidad
+62419,Otros servicios de orientación y trabajo socialT
+624191,Agrupaciones de autoayuda para alcohólicos y personas con otras adicciones
+624198,Otros servicios de orientación y trabajo social prestados por el sector privado
+624199,Otros servicios de orientación y trabajo social prestados por el sector público
+6242,"Servicios comunitarios de alimentación, refugio y emergenciaT"
+62421,Servicios de alimentación comunitariosT
+624211,Servicios de alimentación comunitarios prestados por el sector privado
+624212,Servicios de alimentación comunitarios prestados por el sector público
+62422,Refugios temporales comunitariosT
+624221,Refugios temporales comunitarios del sector privado
+624222,Refugios temporales comunitarios del sector público
+62423,Servicios de emergencia comunitariosT
+624231,Servicios de emergencia comunitarios prestados por el sector privado
+624232,Servicios de emergencia comunitarios prestados por el sector público
+6243,"Servicios de capacitación para el trabajo para personas desempleadas, subempleadas o con discapacidadT"
+62431,"Servicios de capacitación para el trabajo para personas desempleadas, subempleadas o con discapacidadT"
+624311,"Servicios de capacitación para el trabajo prestados por el sector privado para personas desempleadas, subempleadas o con discapacidad"
+624312,"Servicios de capacitación para el trabajo prestados por el sector público para personas desempleadas, subempleadas o con discapacidad"
+6244,GuarderíasT
+62441,GuarderíasT
+624411,Guarderías del sector privado
+624412,Guarderías del sector público
+71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativosT"
+711,"Servicios artísticos, culturales y deportivos, y otros servicios relacionadosT"
+7111,Compañías y grupos de espectáculos artísticos y culturalesT
+71111,Compañías de teatroT
+711111,Compañías de teatro del sector privado
+711112,Compañías de teatro del sector público
+71112,Compañías de danzaT
+711121,Compañías de danza del sector privado
+711122,Compañías de danza del sector público
+71113,Cantantes y grupos musicalesT
+711131,Cantantes y grupos musicales del sector privado
+711132,Grupos musicales del sector público
+71119,Otras compañías y grupos de espectáculos artísticosT
+711191,Otras compañías y grupos de espectáculos artísticos del sector privado
+711192,Otras compañías y grupos de espectáculos artísticos del sector público
+7112,Deportistas y equipos deportivos profesionalesT
+71121,Deportistas y equipos deportivos profesionalesT
+711211,Deportistas profesionales
+711212,Equipos deportivos profesionales
+7113,"Promotores de espectáculos artísticos, culturales, deportivos y similaresT"
+71131,"Promotores de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlosT"
+711311,"Promotores del sector privado de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos"
+711312,"Promotores del sector público de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos"
+71132,"Promotores de espectáculos artísticos, culturales, deportivos y similares que no cuentan con instalaciones para presentarlosT"
+711320,"Promotores de espectáculos artísticos, culturales, deportivos y similares que no cuentan con instalaciones para presentarlos "
+7114,"Agentes y representantes de artistas, deportistas y similaresT"
+71141,"Agentes y representantes de artistas, deportistas y similaresT"
+711410,"Agentes y representantes de artistas, deportistas y similares "
+7115,"Artistas, escritores y técnicos independientesT"
+71151,"Artistas, escritores y técnicos independientesT"
+711510,"Artistas, escritores y técnicos independientes"
+712,"Museos, sitios históricos, zoológicos y similaresT"
+7121,"Museos, sitios históricos, zoológicos y similaresT"
+71211,MuseosT
+712111,Museos del sector privado
+712112,Museos del sector público
+71212,Sitios históricosT
+712120,Sitios históricos
+71213,Jardines botánicos y zoológicosT
+712131,Jardines botánicos y zoológicos del sector privado 
+712132,Jardines botánicos y zoológicos del sector público 
+71219,"Grutas, parques naturales y otros sitios del patrimonio cultural de la naciónT"
+712190,"Grutas, parques naturales y otros sitios del patrimonio cultural de la nación "
+713,Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativosT
+7131,Parques con instalaciones recreativas y casas de juegos electrónicosT
+71311,Parques con instalaciones recreativasT
+713111,Parques de diversiones y temáticos del sector privado 
+713112,Parques de diversiones y temáticos del sector público 
+713113,Parques acuáticos y balnearios del sector privado 
+713114,Parques acuáticos y balnearios del sector público 
+71312,Casas de juegos electrónicosT
+713120,Casas de juegos electrónicos 
+7132,"Casinos, loterías y otros juegos de azarT"
+71321,CasinosT
+713210,Casinos 
+71329,Loterías y otros juegos de azarT
+713291,"Venta de billetes de lotería, pronósticos deportivos y otros boletos de sorteo"
+713299,Otros juegos de azar 
+7139,Otros servicios recreativosT
+71391,Campos de golfT
+713910,Campos de golf
+71392,Pistas para esquiarT
+713920,Pistas para esquiar 
+71393,Marinas turísticasT
+713930,Marinas turísticas
+71394,Clubes deportivos y centros de acondicionamiento físicoT
+713941,Clubes deportivos del sector privado 
+713942,Clubes deportivos del sector público
+713943,Centros de acondicionamiento físico del sector privado
+713944,Centros de acondicionamiento físico del sector público
+71395,BolichesT
+713950,Boliches
+71399,Otros servicios recreativosT
+713991,Billares 
+713992,Clubes o ligas de aficionados
+713998,Otros servicios recreativos prestados por el sector privado
+713999,Otros servicios recreativos prestados por el sector público 
+72,Servicios de alojamiento temporal y de preparación de alimentos y bebidasT
+721,Servicios de alojamiento temporalT
+7211,"Hoteles, moteles y similaresT"
+72111,"Hoteles y moteles, excepto hoteles con casinoT"
+721111,Hoteles con otros servicios integrados
+721112,Hoteles sin otros servicios integrados 
+721113,Moteles
+72112,Hoteles con casinoT
+721120,Hoteles con casino 
+72119,"Cabañas, villas y similaresT"
+721190,"Cabañas, villas y similares"
+7212,Campamentos y albergues recreativosT
+72121,Campamentos y albergues recreativosT
+721210,Campamentos y albergues recreativos 
+7213,"Pensiones y casas de huéspedes, y departamentos y casas amueblados con servicios de hoteleríaT"
+72131,"Pensiones y casas de huéspedes, y departamentos y casas amueblados con servicios de hoteleríaT"
+721311,Pensiones y casas de huéspedes
+721312,Departamentos y casas amueblados con servicios de hotelería
+722,Servicios de preparación de alimentos y bebidasT
+7223,Servicios de preparación de alimentos por encargoT
+72231,Servicios de comedor para empresas e institucionesT
+722310,Servicios de comedor para empresas e instituciones 
+72232,Servicios de preparación de alimentos para ocasiones especialesT
+722320,Servicios de preparación de alimentos para ocasiones especiales
+72233,Servicios de preparación de alimentos en unidades móvilesT
+722330,Servicios de preparación de alimentos en unidades móviles 
+7224,"Centros nocturnos, bares, cantinas y similaresT"
+72241,"Centros nocturnos, bares, cantinas y similaresT"
+722411,"Centros nocturnos, discotecas y similares"
+722412,"Bares, cantinas y similares"
+7225,Servicios de preparación de alimentos y bebidas alcohólicas y no alcohólicasT
+72251,Servicios de preparación de alimentos y bebidas alcohólicas y no alcohólicasT
+722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida
+722512,Restaurantes con servicio de preparación de pescados y mariscos
+722513,Restaurantes con servicio de preparación de antojitos
+722514,Restaurantes con servicio de preparación de tacos y tortas
+722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares"
+722516,Restaurantes de autoservicio
+722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar "
+722518,Restaurantes que preparan otro tipo de alimentos para llevar
+722519,Servicios de preparación de otros alimentos para consumo inmediato
+81,Otros servicios excepto actividades gubernamentalesT
+811,Servicios de reparación y mantenimientoT
+8111,Reparación y mantenimiento de automóviles y camionesT
+81111,Reparación mecánica y eléctrica de automóviles y camionesT
+811111,Reparación mecánica en general de automóviles y camiones
+811112,Reparación del sistema eléctrico y electrónico de automóviles y camiones
+811113,Rectificación de partes de motor de automóviles y camiones
+811114,Reparación de transmisiones de automóviles y camiones
+811115,Reparación de suspensiones de automóviles y camiones
+811116,Alineación y balanceo de automóviles y camiones
+811119,Otras reparaciones mecánicas de automóviles y camiones
+81112,"Hojalatería, tapicería y otras reparaciones a la carrocería de automóviles y camionesT"
+811121,Hojalatería y pintura de automóviles y camiones
+811122,Tapicería de automóviles y camiones
+811123,Servicios de blindaje y de adaptación de automóviles y camiones
+811129,Instalación de cristales y otras reparaciones a la carrocería de automóviles y camiones 
+81119,Otros servicios de reparación y mantenimiento de automóviles y camionesT
+811191,Reparación menor de llantas
+811192,Lavado y lubricado de automóviles y camiones
+811199,Otros servicios de reparación y mantenimiento de automóviles y camiones
+8112,Reparación y mantenimiento de equipo electrónico y de equipo de precisiónT
+81121,Reparación y mantenimiento de equipo electrónico y de equipo de precisiónT
+811211,Reparación y mantenimiento de equipo electrónico de uso doméstico
+811219,Reparación y mantenimiento de otro equipo electrónico y de equipo de precisión
+8113,"Reparación y mantenimiento de maquinaria y equipo agropecuario, industrial, comercial y de serviciosT"
+81131,"Reparación y mantenimiento de maquinaria y equipo agropecuario, industrial, comercial y de serviciosT"
+811311,Reparación y mantenimiento de maquinaria y equipo agropecuario y forestal
+811312,Reparación y mantenimiento de maquinaria y equipo industrial
+811313,"Reparación y mantenimiento de maquinaria y equipo para mover, levantar y acomodar materiales"
+811314,Reparación y mantenimiento de maquinaria y equipo comercial y de servicios
+8114,Reparación y mantenimiento de artículos para el hogar y personalesT
+81141,Reparación y mantenimiento de aparatos eléctricos para el hogar y personalesT
+811410,Reparación y mantenimiento de aparatos eléctricos para el hogar y personales
+81142,Reparación de tapicería de muebles para el hogarT
+811420,Reparación de tapicería de muebles para el hogar
+81143,Reparación de calzado y otros artículos de piel y cueroT
+811430,Reparación de calzado y otros artículos de piel y cuero
+81149,Reparación y mantenimiento de otros artículos para el hogar y personalesT
+811491,Cerrajerías
+811492,Reparación y mantenimiento de motocicletas
+811493,Reparación y mantenimiento de bicicletas
+811499,Reparación y mantenimiento de otros artículos para el hogar y personales
+812,Servicios personalesT
+8121,"Salones y clínicas de belleza, baños públicos y bolerías"
+81211,Salones y clínicas de belleza y peluquerías
+812110,Salones y clínicas de belleza y peluquerías
+81212,Baños públicos
+812120,Baños públicos
+81213,Sanitarios públicos y bolerías
+812130,Sanitarios públicos y bolerías
+8122,Lavanderías y tintorerías
+81221,Lavanderías y tintorerías
+812210,Lavanderías y tintorerías
+8123,Servicios funerarios y administración de cementerios
+81231,Servicios funerarios
+812310,Servicios funerarios
+81232,Administración de cementerios
+812321,Administración de cementerios pertenecientes al sector privado
+812322,Administración de cementerios pertenecientes al sector público
+8124,Estacionamientos y pensiones para vehículos automotores
+81241,Estacionamientos y pensiones para vehículos automotores
+812410,Estacionamientos y pensiones para vehículos automotores
+8129,Servicios de revelado e impresión de fotografías y otros servicios personales
+81291,Servicios de revelado e impresión de fotografías
+812910,Servicios de revelado e impresión de fotografías
+81299,Otros servicios personales
+812990,Otros servicios personales
+813,Asociaciones y organizacionesT
+8131,"Asociaciones y organizaciones comerciales, laborales, profesionales y recreativas"
+81311,"Asociaciones, organizaciones y cámaras de productores, comerciantes y prestadores de servicios"
+813110,"Asociaciones, organizaciones y cámaras de productores, comerciantes y prestadores de servicios"
+81312,Asociaciones y organizaciones laborales y sindicales
+813120,Asociaciones y organizaciones laborales y sindicales
+81313,Asociaciones y organizaciones de profesionistas
+813130,Asociaciones y organizaciones de profesionistas
+81314,Asociaciones regulatorias de actividades recreativas
+813140,Asociaciones regulatorias de actividades recreativas
+8132,"Asociaciones y organizaciones religiosas, políticas y civiles"
+81321,Asociaciones y organizaciones religiosas
+813210,Asociaciones y organizaciones religiosas
+81322,Asociaciones y organizaciones políticas
+813220,Asociaciones y organizaciones políticas
+81323,Asociaciones y organizaciones civiles
+813230,Asociaciones y organizaciones civiles
+814,Hogares con empleados domésticosT
+8141,Hogares con empleados domésticosT
+81411,Hogares con empleados domésticosT
+814110,Hogares con empleados domésticos
+93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritorialesT"
+931,"Actividades legislativas, gubernamentales y de impartición de justicia"
+9311,Órganos legislativos
+93111,Órganos legislativos
+931110,Órganos legislativos
+9312,Administración pública en general
+93121,Administración pública en general
+931210,Administración pública en general
+9313,Regulación y fomento del desarrollo económico
+93131,Regulación y fomento del desarrollo económico
+931310,Regulación y fomento del desarrollo económico
+9314,Impartición de justicia y mantenimiento de la seguridad y el orden público
+93141,Impartición de justicia y mantenimiento de la seguridad y el orden público
+931411,Impartición de justicia
+931412,Mantenimiento de la seguridad y el orden público
+9315,Regulación y fomento de actividades para mejorar y preservar el medio ambiente
+93151,Regulación y fomento de actividades para mejorar y preservar el medio ambiente
+931510,Regulación y fomento de actividades para mejorar y preservar el medio ambiente
+9316,Actividades administrativas de instituciones de bienestar social
+93161,Actividades administrativas de instituciones de bienestar social
+931610,Actividades administrativas de instituciones de bienestar social
+9317,Relaciones exteriores
+93171,Relaciones exteriores
+931710,Relaciones exteriores
+9318,Actividades de seguridad nacional
+93181,Actividades de seguridad nacional
+931810,Actividades de seguridad nacional
+932,Organismos internacionales y extraterritoriales
+9321,Organismos internacionales y extraterritoriales
+93211,Organismos internacionales
+932110,Organismos internacionales
+93212,Sedes diplomáticas y otras unidades extraterritoriales
+932120,Sedes diplomáticas y otras unidades extraterritoriales
